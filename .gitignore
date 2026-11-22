@@ -1,0 +1,28 @@
+/build/
+/dist/
+/node_modules/
+__pycache__/
+.env
+.env.*
+*.user
+*.log
+*.exe
+*.dll
+*.pdb
+*.db
+*.sqlite*
+*.ldb
+*.bundle
+*.zip
+Profile/
+IndexedDB/
+Local Storage/
+Session Storage/
+ingest/
+Stages/
+Releases/
+saves/
+snapshots/
+gear.json
+Soul_Binding_Planner.html
+folio-art.js
