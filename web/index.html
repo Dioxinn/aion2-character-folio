@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#F3EBDC">
+  <title>Soul Binding Planner · AION 2 Global</title>
+  <link rel="stylesheet" href="ui/style.css">
+  <script defer src="engine/engine.js"></script>
+  <script defer src="ui/data.js"></script>
+  <script defer src="ui/armory.js"></script>
+  <script defer src="ui/app.js"></script>
+</head>
+<body>
+  <main id="planner" class="wrap first-character">
+    <header class="apphead">
+      <div class="brandlock"><strong class="wordmark">AION <i>2</i></strong><h1>Soul Binding Planner</h1></div>
+      <nav class="folio-nav" aria-label="Planner views">
+        <button id="open-planner" type="button" aria-pressed="true" aria-controls="planner-view">Character board</button>
+        <button id="open-upgrade" type="button" aria-pressed="false" aria-controls="upgrade-view">Upgrade path</button>
+        <button id="open-guide" type="button" aria-pressed="false" aria-controls="guide-view">Class guide</button>
+      </nav>
+      <details id="characters">
+        <summary><span><strong id="menu-name"></strong><small id="menu-server"></small></span><span aria-hidden="true">▾</span></summary>
+        <div id="quick-bar">
+          <label for="quick-character">Quick switch</label>
+          <select id="quick-character"><option value="">Saved characters</option></select>
+          <button id="change-character" type="button" aria-controls="character-picker" aria-expanded="false">Add New Character</button>
+          <button id="save-character" type="button" disabled>Add current character</button>
+        </div>
+      </details>
+    </header>
+    <p id="profile" class="sr-only" tabindex="-1"></p>
+    <section id="character-picker" class="panel" aria-labelledby="character-heading" hidden>
+      <h2 id="character-heading">Add your first character</h2>
+      <p id="first-help" class="helper">Enter your character name and region, then choose your server from the results.</p>
+      <form id="character-search" action="/" method="get">
+        <label for="find-name">Character name<input id="find-name" name="name" type="search" required maxlength="64" autocomplete="off"></label>
+        <label for="find-region">Region<select id="find-region" name="region">
+          <option value="nae">NA East</option><option value="naw">NA West</option><option value="eu">Europe</option>
+          <option value="la">Latin America</option><option value="as">Asia</option>
+        </select></label>
+        <button type="submit">Search</button>
+      </form>
+      <p id="find-status" class="helper" role="status"></p>
+      <ul id="character-matches" aria-label="Matching characters"></ul>
+      <button id="more-characters" type="button" hidden>Show more matches</button>
+    </section>
+    <p class="notice" id="feedback" role="status" hidden></p>
+    <div id="character-content">
+    <div id="planner-view">
+      <div id="workspace" hidden>
+        <div id="folio-board">
+          <section class="loadout" aria-labelledby="equipment-heading">
+            <div class="board-title"><h2 id="equipment-heading">Equipment</h2><span id="count"></span></div>
+            <div id="gear-list">
+              <section class="bank weapons"><h3>Weapons &amp; armor</h3><div id="armor-slots"></div></section>
+              <section class="identity" aria-label="Character identity">
+                <div class="portrait-frame"><div id="portrait"></div></div>
+                <div class="identity-name"><h2 id="character-name"></h2><p id="identity-faction"></p></div>
+                <div class="portrait-stats">
+                  <p class="portrait-power"><span class="kicker">Combat power</span><strong class="cp" id="identity-cp"></strong></p>
+                  <dl class="facts" id="identity-facts"></dl>
+                </div>
+              </section>
+              <section class="bank accessories"><h3>Accessories &amp; runes</h3><div id="accessory-slots"></div></section>
+              <section id="extra-bank" class="bank" hidden><h3>Other equipment</h3><div id="extra-slots"></div></section>
+              <section class="bank arcana" id="arcana-bank"><h3>Arcana</h3><div id="arcana-slots"></div></section>
+            </div>
+            <section id="empty" hidden><h3>No equipped items</h3><p>No equipment is listed for this character.</p></section>
+          </section>
+          <aside id="rail" aria-labelledby="rail-heading">
+            <h2 id="rail-heading">Selected item</h2>
+            <div id="rail-details"></div>
+            <button id="board-return" type="button" hidden>Back to equipment</button>
+          </aside>
+        </div>
+        <section id="inspection" aria-labelledby="inspection-heading" hidden>
+          <h2 id="inspection-heading">
+            <button id="inspect-toggle" type="button" aria-expanded="false" aria-controls="editor">
+              <span id="inspect-label">Inspect reroll</span>
+              <span class="inspect-identity"><strong id="item-name"></strong><small><span id="item-slot"></span><span id="item-meta"></span></small></span>
+              <span class="chevron" aria-hidden="true"></span>
+            </button>
+          </h2>
+          <div id="editor" hidden>
+          <button id="editor-back" type="button" hidden>← Back to upgrade path</button>
+          <div class="item-layout">
+            <div class="equipment-card">
+              <div class="card-head">
+                <h3 id="line-heading">Line to reroll</h3>
+                <details id="ideal-names" hidden><summary id="ideal-count"></summary><p id="ideal-names-list"></p></details>
+              </div>
+              <div id="equipped-face">
+                <div id="roll-controls">
+                  <fieldset><legend class="sr-only">Line to reroll</legend><div id="results"></div></fieldset>
+                </div>
+                <p id="no-lines" class="helper" hidden></p>
+                <ul id="fixed-lines" hidden></ul>
+              </div>
+              <section id="suggestion" aria-labelledby="suggestion-title" hidden>
+                <div class="recommendation-heading">
+                  <h4 id="suggestion-title"><label for="suggestion-ranking">Suggested Reroll Model:</label></h4>
+                  <select id="suggestion-ranking"></select>
+                </div>
+                <p id="suggestion-fallback" class="card-note" hidden></p>
+                <p id="suggestion-summary"></p>
+                <p id="suggestion-targets" class="card-note"></p>
+                <button id="apply-suggestion" type="button" hidden>Calculate</button>
+              </section>
+            </div>
+            <aside id="chance-panel" aria-labelledby="chance-title" hidden>
+              <h3 id="chance-title" class="sr-only">Target chance</h3>
+              <div aria-live="polite" aria-atomic="true" class="chance-values">
+                <p><span>Target chance</span> <strong id="target-chance">-</strong></p>
+                <p><span>Any acceptable</span> <strong id="acceptable-chance">-</strong></p>
+              </div>
+              <label for="target">Effect you want</label><select id="target"></select>
+              <details id="other-targets" open><summary>Other acceptable effects</summary>
+                <div id="target-list" class="chips"></div>
+                <form id="add-form" class="inline-form"><label class="sr-only" for="new-target">Additional effect</label>
+                  <select id="new-target"></select><button type="submit">Add</button></form>
+              </details>
+              <p id="chance-note" class="card-note"></p>
+            </aside>
+          </div>
+        <details id="ideal-face" class="reference" hidden>
+          <summary>Ideal roll rankings</summary>
+          <div class="ranking-options">
+            <label id="ranking-label" class="guide-field">Rankings
+              <select id="ranking-source"><option value="consensus">Consensus</option><option value="global">NotMeter · Global</option><option value="notmeter">NotMeter · Korea / Taiwan</option><option value="kisk">Kisk · Korea</option></select>
+            </label>
+            <button id="pin-toggle" type="button" aria-controls="pin-editor" aria-expanded="false" hidden>Create Custom Ranking</button>
+            <button id="pin-edit" type="button" aria-controls="pin-editor" aria-expanded="false" hidden>Edit Ranking</button>
+            <p id="ideal-context" class="card-note"></p>
+          </div>
+          <section id="pin-editor" aria-labelledby="pin-title" hidden>
+            <h3 id="pin-title"></h3>
+            <label class="pin-name-field" for="pin-name">Ranking name
+              <input id="pin-name" type="text" maxlength="48" autocomplete="off" required aria-describedby="pin-name-error">
+            </label>
+            <p id="pin-name-error" class="card-note" hidden></p>
+            <p id="pin-help" class="card-note"></p>
+            <div class="pin-layout">
+              <ol id="pin-list" aria-label="Ideal priorities"></ol>
+              <div class="pin-tools">
+                <form id="pin-form">
+                  <label for="pin-search">Find an effect</label>
+                  <input id="pin-search" type="search" autocomplete="off">
+                  <label for="pin-choice" class="sr-only">Matching effects</label>
+                  <select id="pin-choice"></select>
+                  <button id="pin-add" type="submit">Pin effect</button>
+                </form>
+                <p id="pin-preview" aria-live="polite"></p>
+              </div>
+            </div>
+            <div class="pin-actions">
+              <button id="pin-save" type="button" class="primary">Save Ranking</button>
+              <button id="pin-copy" type="button" hidden></button>
+              <button id="pin-delete" type="button" hidden>Delete Ranking</button>
+              <button id="pin-cancel" type="button">Close</button>
+            </div>
+            <p id="pin-status" role="status"></p>
+          </section>
+          <div id="ideal-rows" class="reference-grid" aria-label="Ideal roll rankings" role="group"></div>
+          <div id="ideal-source" class="card-note"></div>
+        </details>
+        <details class="panel reference" id="pool" hidden><summary>Effects and odds for this item</summary>
+          <p class="helper">Base chance is the share before any effects are on the item. This roll excludes every current effect, including the one you select.</p>
+          <div id="pool-rows" class="reference-grid" aria-label="Item probabilities" role="group"></div>
+          <p id="pool-source" class="helper"></p>
+        </details>
+        <div id="mobile-odds" hidden><span>Primary <strong id="mobile-primary"></strong></span><span>Any acceptable <strong id="mobile-combined"></strong></span></div>
+          </div>
+        </section>
+    </div>
+    </div>
+    <section id="upgrade-view" class="panel" aria-labelledby="upgrade-title" hidden>
+      <div class="recommendation-heading"><h2 id="upgrade-title" tabindex="-1">Upgrade path</h2>
+        <label class="recommendation-ranking">Ranking <select id="upgrade-ranking"></select></label>
+      </div>
+      <p class="helper">Highest chance to gain an ideal line first. Select an item to use its suggested reroll.</p>
+      <p class="card-note" id="upgrade-ranking-note" hidden>Slots without this named ranking use Consensus.</p>
+      <ol id="upgrade-steps" aria-label="Suggested rerolls in priority order"></ol>
+      <p id="upgrade-empty" class="helper" hidden>No suggested rerolls are available for this loadout.</p>
+    </section>
+    <section id="guide-view" class="panel guide" aria-labelledby="guide-title" hidden>
+      <div class="eyebrow">Global &amp; Korea / Taiwan · PvE</div>
+      <h2 id="guide-title">Cleric build guide</h2>
+      <p class="helper" id="guide-meta"></p>
+      <nav id="guide-categories" class="view-switch" aria-label="Build categories">
+        <button type="button" data-category="soul" aria-pressed="true">Soul Bind</button>
+        <button type="button" data-category="stones" aria-pressed="false">Manastones</button>
+        <button type="button" data-category="arcana" aria-pressed="false">Arcana</button>
+        <button type="button" data-category="skills" aria-pressed="false">Skills &amp; traits</button>
+      </nav>
+      <div class="guide-filters">
+        <label class="guide-field">Class<select id="guide-class"></select></label>
+        <label class="guide-field">Sample<select id="guide-region">
+          <option value="consensus">Consensus</option><option value="global">Global</option><option value="notmeter">Korea / Taiwan</option>
+        </select></label>
+        <label class="guide-field"><span id="guide-filter-label"></span><select id="guide-filter"></select></label>
+        <label id="skill-filter-label" class="guide-field" hidden>Skill<select id="skill-filter"></select></label>
+      </div>
+      <div id="guide-sections"></div>
+      <p id="consensus-note" class="card-note"></p>
+      <div id="guide-source" class="card-note"></div>
+    </section>
+    <footer class="folio-footer">
+      <div class="source-info"><span id="quick-pulled"></span><details><summary>Data source</summary><span id="freshness"></span> <span id="source-link"></span></details></div>
+      <div class="footer-actions"><button id="refresh" type="button">Refresh gear</button>
+      <button id="auto-refresh" type="button" aria-pressed="false" hidden>Auto-refresh every 10 min</button></div>
+    </footer>
+    </div>
+  </main>
+  <div id="gear-tooltip" role="tooltip" hidden></div>
+  <noscript><p>Enable JavaScript to use the planner.</p></noscript>
+</body>
+</html>
