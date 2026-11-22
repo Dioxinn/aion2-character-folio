@@ -1,0 +1,3998 @@
+{
+  "globalGuide": {
+    "className": "Assassin",
+    "service": "Global",
+    "source": "https://notmeter.com/?view=setup-guide",
+    "updated": "2026-11-21T18:27:53.4586437+00:00",
+    "sampleSize": 20,
+    "soul": {
+      "Weapons": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Attack",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Precision",
+            "used": 4,
+            "usage": 20
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Heart Gore",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Savage Roar",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Guard": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Status Effect Chance",
+            "used": 4,
+            "usage": 20
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Heart Gore",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Savage Roar",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Helm": {
+        "Options": [
+          {
+            "name": "Double Chance",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Attack",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Attack increase",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Incoming Heal",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Critical Hit",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Constitution",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Rear Smite",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Assault Stance",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Impact Hit",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Ambush Stance",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Revitalization Contract",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Pauldrons": {
+        "Options": [
+          {
+            "name": "Critical Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Attack",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "HP",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Accuracy",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Critical Hit",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Rear Smite",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Assault Stance",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Impact Hit",
+            "used": 5,
+            "usage": 25
+          }
+        ]
+      },
+      "Top": {
+        "Options": [
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Accuracy",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Double Resist",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Assault Stance",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Impact Hit",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Rear Smite",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Ambush Stance",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Defense Break",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Legs": {
+        "Options": [
+          {
+            "name": "Damage Tolerance",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Attack increase",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Attack",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Critical Hit",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Multi-hit Resist",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Rear Smite",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Assault Stance",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Impact Hit",
+            "used": 3,
+            "usage": 15
+          }
+        ]
+      },
+      "Gloves": {
+        "Options": [
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Front Defense",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Accuracy",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Critical Hit",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Rear Smite",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Assault Stance",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Impact Hit",
+            "used": 6,
+            "usage": 30
+          }
+        ]
+      },
+      "Shoes": {
+        "Options": [
+          {
+            "name": "Move Speed",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Attack",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Accuracy",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Critical Hit",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "HP",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Rear Smite",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Assault Stance",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Impact Hit",
+            "used": 7,
+            "usage": 35
+          }
+        ]
+      },
+      "Necklace": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Combat Speed",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Might",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Accuracy",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Critical Hit",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Precision",
+            "used": 3,
+            "usage": 15
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Assault Stance",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Impact Hit",
+            "used": 5,
+            "usage": 25
+          }
+        ]
+      },
+      "Earrings": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Might",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Move Speed",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Precision",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Critical Hit",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Accuracy",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Flight Power",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Rear Smite",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Impact Hit",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Assault Stance",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Ambush Stance",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Defense Break",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Heightened Sixth Sense",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Ring": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Might",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Precision",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Accuracy",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Critical Hit",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Block",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Natural MP Regen",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Heart Gore",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Insignia Explosion",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Quick Slice",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Savage Roar",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Storm Rampage",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Ambush",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Bracelet": {
+        "Options": [
+          {
+            "name": "MP",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Evasion",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Critical Hit",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Natural MP Regen",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Destruction [Zikel]",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Illusion [Kaisinel]",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Wisdom [Lumiel]",
+            "used": 13,
+            "usage": 65
+          }
+        ]
+      },
+      "Cloak": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Attack increase",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Double Chance",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Critical Damage Tolerance",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Constitution",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Front Defense",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Rear Smite",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Assault Stance",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Impact Hit",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Determination",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      }
+    },
+    "stones": {
+      "Manastones · Damage Boost": [
+        {
+          "name": "Critical Damage Boost",
+          "used": 8,
+          "usage": 40,
+          "detail": "12 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 6,
+          "usage": 30,
+          "detail": "8 total"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "used": 5,
+          "usage": 25,
+          "detail": "7 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 4,
+          "usage": 20,
+          "detail": "6 total"
+        }
+      ],
+      "Soulstones · Damage Boost": [
+        {
+          "name": "Weapon Damage Boost",
+          "used": 9,
+          "usage": 45,
+          "detail": "10 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 8,
+          "usage": 40,
+          "detail": "11 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 6,
+          "usage": 30,
+          "detail": "8 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 5,
+          "usage": 25,
+          "detail": "6 total"
+        }
+      ]
+    },
+    "arcana": {
+      "Chalice": {
+        "Most-used cards": [
+          {
+            "name": "Chalice of Vigor",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Insignia Explosion",
+            "used": 13,
+            "usage": 65,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Quick Slice",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Heart Gore",
+            "used": 9,
+            "usage": 45,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Rear Smite",
+            "used": 8,
+            "usage": 40,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Apply Poison",
+            "used": 5,
+            "usage": 25,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Assault Stance",
+            "used": 5,
+            "usage": 25,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Parchment": {
+        "Most-used cards": [
+          {
+            "name": "Parchment of Vigor",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Parchment of Magic",
+            "used": 4,
+            "usage": 20
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Quick Slice",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Insignia Explosion",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Heart Gore",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Whirlwind Slice",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Shadow Fall",
+            "used": 8,
+            "usage": 40,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Shadowstrike",
+            "used": 4,
+            "usage": 20,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Compass": {
+        "Most-used cards": [
+          {
+            "name": "Compass of Vigor",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Compass of Magic",
+            "used": 3,
+            "usage": 15
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Savage Roar",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Storm Rampage",
+            "used": 17,
+            "usage": 85,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Defiance",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Ambush",
+            "used": 11,
+            "usage": 55,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Flash Slice",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Infiltrate",
+            "used": 9,
+            "usage": 45,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Bell": {
+        "Most-used cards": [
+          {
+            "name": "Bell of Magic",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Assault Stance",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Ambush Stance",
+            "used": 17,
+            "usage": 85,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Heightened Sixth Sense",
+            "used": 16,
+            "usage": 80,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Revitalization Contract",
+            "used": 14,
+            "usage": 70,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Apply Poison",
+            "used": 13,
+            "usage": 65,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Mirror": {
+        "Most-used cards": [
+          {
+            "name": "Mirror of Vigor",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Mirror of Magic",
+            "used": 8,
+            "usage": 40
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Impact Hit",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Determination",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Defense Break",
+            "used": 9,
+            "usage": 45,
+            "detail": "Lv.1"
+          }
+        ]
+      }
+    },
+    "arcanaSets": [
+      {
+        "name": "Primal Vigor",
+        "used": 20,
+        "usage": 100,
+        "detail": "4 total"
+      },
+      {
+        "name": "Magic Armor",
+        "used": 20,
+        "usage": 100,
+        "detail": "1 total"
+      }
+    ],
+    "skills": {
+      "Active skills": [
+        {
+          "name": "Heart Gore",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Insignia Explosion",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Quick Slice",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Savage Roar",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.18"
+        },
+        {
+          "name": "Storm Rampage",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Ambush",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        },
+        {
+          "name": "Defiance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        },
+        {
+          "name": "Flash Slice",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        },
+        {
+          "name": "Infiltrate",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        },
+        {
+          "name": "Shadowstrike",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        },
+        {
+          "name": "Shadow Fall",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.9"
+        },
+        {
+          "name": "Whirlwind Slice",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.8"
+        }
+      ],
+      "Stigma": [
+        {
+          "name": "Illusive Clone",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Swift Contract",
+          "used": 18,
+          "usage": 90,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Triniel's Dagger",
+          "used": 18,
+          "usage": 90,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Savage Fang",
+          "used": 15,
+          "usage": 75,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Throw Shadowblade",
+          "used": 4,
+          "usage": 20,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Evasion Stance",
+          "used": 3,
+          "usage": 15,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Aerial Bind",
+          "used": 1,
+          "usage": 5,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Evasion Contract",
+          "used": 1,
+          "usage": 5,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Shadow Walk",
+          "used": 1,
+          "usage": 5,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Assault Ambush",
+          "used": 1,
+          "usage": 5,
+          "detail": "Lv.5"
+        }
+      ],
+      "Passive": [
+        {
+          "name": "Rear Smite",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.26"
+        },
+        {
+          "name": "Assault Stance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.22"
+        },
+        {
+          "name": "Exploit Weakness",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.22"
+        },
+        {
+          "name": "Impact Hit",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.19"
+        },
+        {
+          "name": "Ambush Stance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Determination",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Heightened Sixth Sense",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Defense Break",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14"
+        },
+        {
+          "name": "Revitalization Contract",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14"
+        },
+        {
+          "name": "Apply Poison",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.7"
+        }
+      ]
+    },
+    "traits": {
+      "Heart Gore": [
+        {
+          "number": 1,
+          "description": "Absorbs 0.7% HP",
+          "used": 5,
+          "sample": 20,
+          "usage": 25.0
+        },
+        {
+          "number": 2,
+          "description": "Engraves 1 Insignia for 10s on hit",
+          "used": 1,
+          "sample": 20,
+          "usage": 5.0
+        },
+        {
+          "number": 3,
+          "description": "Up to +20% Critical Hit when less targets hit",
+          "used": 6,
+          "sample": 20,
+          "usage": 30.0
+        },
+        {
+          "number": 4,
+          "description": "Multi-Hit on hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "Resets [Heart Gore] cooldown on landing a Critical Hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        }
+      ],
+      "Insignia Explosion": [
+        {
+          "number": 1,
+          "description": "Adds rotate effect",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+50% Multi-Hit on hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "Keep 2 stacks of Insignias after [Insignia Explosion]",
+          "used": 14,
+          "sample": 20,
+          "usage": 70.0
+        },
+        {
+          "number": 4,
+          "description": "+1s Stun duration",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "-3s cooldown",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        }
+      ],
+      "Quick Slice": [
+        {
+          "number": 1,
+          "description": "+20% MP restored",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Absorbs 0.7% HP",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "+50% Multi-Hit on hit",
+          "used": 18,
+          "sample": 20,
+          "usage": 90.0
+        },
+        {
+          "number": 4,
+          "description": "-1s [Insignia Explosion] cooldown on hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "Ignores Block and Evasion and lands as a Critical Hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        }
+      ],
+      "Savage Roar": [
+        {
+          "number": 1,
+          "description": "-20% MP consumed",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+20% Skill Speed",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "Deals up to 12% more damage when less targets are hit",
+          "used": 11,
+          "sample": 20,
+          "usage": 55.0
+        },
+        {
+          "number": 4,
+          "description": "-1s [Shadowstrike] cooldown on hit",
+          "used": 17,
+          "sample": 20,
+          "usage": 85.0
+        },
+        {
+          "number": 5,
+          "description": "Pulls nearby targets on using [Savage Smash]",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        }
+      ],
+      "Storm Rampage": [
+        {
+          "number": 1,
+          "description": "Absorbs 5% HP",
+          "used": 1,
+          "sample": 19,
+          "usage": 5.3
+        },
+        {
+          "number": 2,
+          "description": "Restores 120 MP on hit",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 1,
+          "sample": 19,
+          "usage": 5.3
+        },
+        {
+          "number": 4,
+          "description": "Multi-Hit on hit",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "-1s all skill cooldowns on hit",
+          "used": 18,
+          "sample": 19,
+          "usage": 94.7
+        }
+      ],
+      "Ambush": [
+        {
+          "number": 1,
+          "description": "Engraves 2 Insignias for 10s on landing as a Back attack",
+          "used": 13,
+          "sample": 15,
+          "usage": 86.7
+        },
+        {
+          "number": 2,
+          "description": "Absorbs 3% HP",
+          "used": 8,
+          "sample": 15,
+          "usage": 53.3
+        },
+        {
+          "number": 3,
+          "description": "Breaks Protective Shields on hit",
+          "used": 1,
+          "sample": 15,
+          "usage": 6.7
+        },
+        {
+          "number": 4,
+          "description": "50% chance to trigger [Whirlwind Slice] on hit",
+          "used": 3,
+          "sample": 15,
+          "usage": 20.0
+        },
+        {
+          "number": 5,
+          "description": "+2 consecutive uses",
+          "used": 4,
+          "sample": 15,
+          "usage": 26.7
+        }
+      ],
+      "Defiance": [
+        {
+          "number": 1,
+          "description": "Adds [Storm Slice] Chain Skill",
+          "used": 0,
+          "sample": 18,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Restores 1000 Stamina on using [Defiance]",
+          "used": 7,
+          "sample": 18,
+          "usage": 38.9
+        },
+        {
+          "number": 3,
+          "description": "Restores 20% HP on using [Defiance]",
+          "used": 18,
+          "sample": 18,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "+2s Tenacity duration",
+          "used": 5,
+          "sample": 18,
+          "usage": 27.8
+        },
+        {
+          "number": 5,
+          "description": "+50% PvE Damage Tolerance and +25% PvP Damage Tolerance for Tenacity duration",
+          "used": 2,
+          "sample": 18,
+          "usage": 11.1
+        }
+      ],
+      "Flash Slice": [
+        {
+          "number": 1,
+          "description": "+2s Blind duration",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+6m Range",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "Up to +20% damage when more targets hit",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "+1 consecutive use",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "50% chance to rotate and inflict Stun for 3s on hitting a target afflicted with Blind",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        }
+      ],
+      "Infiltrate": [
+        {
+          "number": 1,
+          "description": "Restores 300 Stamina on landing [Infiltrate]",
+          "used": 14,
+          "sample": 20,
+          "usage": 70.0
+        },
+        {
+          "number": 2,
+          "description": "+10m [Infiltrate] range",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "Breaks Protective Shields on landing [Infiltrate]",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "Adds [Dark Strike] Chain Skill",
+          "used": 2,
+          "sample": 20,
+          "usage": 10.0
+        },
+        {
+          "number": 5,
+          "description": "+20% [Infiltrate] Blind Chance",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        }
+      ],
+      "Shadowstrike": [
+        {
+          "number": 1,
+          "description": "+1s Stun duration",
+          "used": 3,
+          "sample": 20,
+          "usage": 15.0
+        },
+        {
+          "number": 2,
+          "description": "+20% caster Critical Damage Boost for 10s on hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "50% chance to inflict Seal for 5s on hit",
+          "used": 13,
+          "sample": 20,
+          "usage": 65.0
+        },
+        {
+          "number": 4,
+          "description": "50% chance to inflict Root for 5s on hit",
+          "used": 4,
+          "sample": 20,
+          "usage": 20.0
+        },
+        {
+          "number": 5,
+          "description": "Changes to AoE Skill",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        }
+      ],
+      "Shadow Fall": [
+        {
+          "number": 1,
+          "description": "Absorbs 10% HP",
+          "used": 6,
+          "sample": 17,
+          "usage": 35.3
+        },
+        {
+          "number": 2,
+          "description": "Engraves 3 Insignias for 10s on hit",
+          "used": 0,
+          "sample": 17,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "-5s cooldown",
+          "used": 13,
+          "sample": 17,
+          "usage": 76.5
+        },
+        {
+          "number": 4,
+          "description": "+1s Knockdown duration",
+          "used": 0,
+          "sample": 17,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "Can be used on targets afflicted with Blind",
+          "used": 0,
+          "sample": 17,
+          "usage": 0.0
+        }
+      ],
+      "Whirlwind Slice": [
+        {
+          "number": 1,
+          "description": "+50% Multi-Hit on hit",
+          "used": 3,
+          "sample": 7,
+          "usage": 42.9
+        },
+        {
+          "number": 2,
+          "description": "Changes to AoE damage",
+          "used": 1,
+          "sample": 7,
+          "usage": 14.3
+        },
+        {
+          "number": 3,
+          "description": "+16m range",
+          "used": 4,
+          "sample": 7,
+          "usage": 57.1
+        },
+        {
+          "number": 4,
+          "description": "+20% Stun Chance",
+          "used": 0,
+          "sample": 7,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "25% chance to reset [Whirlwind Slice] cooldown on Evasion",
+          "used": 1,
+          "sample": 7,
+          "usage": 14.3
+        }
+      ]
+    }
+  },
+  "buildGuide": {
+    "className": "Assassin",
+    "service": "Korea / Taiwan",
+    "source": "https://notmeter.com/?view=setup-guide",
+    "updated": "2026-11-21T16:44:54.5839834+00:00",
+    "sampleSize": 20,
+    "soul": {
+      "Weapons": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Precision",
+            "used": 12,
+            "usage": 60
+          }
+        ]
+      },
+      "Guard": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Precision",
+            "used": 11,
+            "usage": 55
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Heart Gore",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Helm": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Assault Stance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 18,
+            "usage": 90
+          }
+        ]
+      },
+      "Pauldrons": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Assault Stance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Impact Hit",
+            "used": 17,
+            "usage": 85
+          }
+        ]
+      },
+      "Top": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Assault Stance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Determination",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Legs": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Tolerance",
+            "used": 18,
+            "usage": 90
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Assault Stance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Gloves": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Assault Stance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 18,
+            "usage": 90
+          }
+        ]
+      },
+      "Shoes": {
+        "Options": [
+          {
+            "name": "Move Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 19,
+            "usage": 95
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Assault Stance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 19,
+            "usage": 95
+          }
+        ]
+      },
+      "Necklace": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Hit",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Accuracy",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Assault Stance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Ambush Stance",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Determination",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Heightened Sixth Sense",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Earrings": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Accuracy",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Critical Hit",
+            "used": 3,
+            "usage": 15
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Assault Stance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Determination",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Ambush Stance",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Heightened Sixth Sense",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Ring": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Hit",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Accuracy",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Ambush",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Savage Roar",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Insignia Explosion",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Heart Gore",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Quick Slice",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Storm Rampage",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Defiance",
+            "used": 9,
+            "usage": 45
+          }
+        ]
+      },
+      "Bracelet": {
+        "Options": [
+          {
+            "name": "Time [Siel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Justice [Nezekan]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Wisdom [Lumiel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Destruction [Zikel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Illusion [Kaisinel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Space [Israphel]",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Death [Triniel]",
+            "used": 5,
+            "usage": 25
+          }
+        ]
+      },
+      "Brooch": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Precision",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Constitution",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Accuracy",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Critical Hit",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Willpower",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Intelligence",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Cloak": {
+        "Options": [
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Critical Damage Tolerance",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Assault Stance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Impact Hit",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Seal": {
+        "Options": [
+          {
+            "name": "Power Shard Damage Bonus",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "PvE Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Boss Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Max Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack Bonus",
+            "used": 20,
+            "usage": 100
+          }
+        ]
+      }
+    },
+    "stones": {
+      "Manastones · Damage Boost": [
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 20,
+          "usage": 100,
+          "detail": "177 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 12,
+          "usage": 60,
+          "detail": "14 total"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "used": 11,
+          "usage": 55,
+          "detail": "22 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 10,
+          "usage": 50,
+          "detail": "13 total"
+        },
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 6,
+          "usage": 30,
+          "detail": "6 total"
+        }
+      ],
+      "Soulstones · Damage Boost": [
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 20,
+          "usage": 100,
+          "detail": "211 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 9,
+          "usage": 45,
+          "detail": "12 total"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "used": 8,
+          "usage": 40,
+          "detail": "18 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 8,
+          "usage": 40,
+          "detail": "8 total"
+        },
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 3,
+          "usage": 15,
+          "detail": "4 total"
+        }
+      ]
+    },
+    "arcana": {
+      "Chalice": {
+        "Most-used cards": [
+          {
+            "name": "Chalice of Protection",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Chalice of Indomitability",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Assault Stance",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 14,
+            "usage": 70,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Ambush",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Insignia Explosion",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Heart Gore",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Parchment": {
+        "Most-used cards": [
+          {
+            "name": "Parchment of Protection",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Parchment of Punishment",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Insignia Explosion",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Heart Gore",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Quick Slice",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Shadowstrike",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Whirlwind Slice",
+            "used": 8,
+            "usage": 40,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Shadow Fall",
+            "used": 1,
+            "usage": 5,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Compass": {
+        "Most-used cards": [
+          {
+            "name": "Compass of Punishment",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Compass of Protection",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Ambush",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Savage Roar",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Storm Rampage",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Defiance",
+            "used": 11,
+            "usage": 55,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Flash Slice",
+            "used": 7,
+            "usage": 35,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Infiltrate",
+            "used": 4,
+            "usage": 20,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Bell": {
+        "Most-used cards": [
+          {
+            "name": "Bell of Punishment",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Assault Stance",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Ambush Stance",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Heightened Sixth Sense",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Revitalization Contract",
+            "used": 13,
+            "usage": 65,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Apply Poison",
+            "used": 13,
+            "usage": 65,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Mirror": {
+        "Most-used cards": [
+          {
+            "name": "Mirror of Protection",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Mirror of Punishment",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Mirror of Indomitability",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Determination",
+            "used": 14,
+            "usage": 70,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Defense Break",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Scales": {
+        "Most-used cards": [
+          {
+            "name": "Scales of Punishment",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Scales of Indomitability",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Rear Smite",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Assault Stance",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Exploit Weakness",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Insignia Explosion",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Heart Gore",
+            "used": 7,
+            "usage": 35,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Ambush",
+            "used": 3,
+            "usage": 15,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Key": {
+        "Most-used cards": [
+          {
+            "name": "Key of Protection",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Key of Punishment",
+            "used": 3,
+            "usage": 15
+          }
+        ],
+        "Most-used attached skills": []
+      },
+      "Hourglass": {
+        "Most-used cards": [
+          {
+            "name": "Hourglass of Protection",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Hourglass of Indomitability",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Hourglass of Punishment",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": []
+      },
+      "Dice": {
+        "Most-used cards": [
+          {
+            "name": "Dice of Indomitability",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Dice of Protection",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Dice of Punishment",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Most-used attached skills": []
+      },
+      "Lantern": {
+        "Most-used cards": [
+          {
+            "name": "Lantern of Punishment",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Lantern of Indomitability",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Lantern of Protection",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": []
+      }
+    },
+    "arcanaSets": [
+      {
+        "name": "Protected Soul",
+        "used": 20,
+        "usage": 100,
+        "detail": "5 total"
+      },
+      {
+        "name": "Punishing Overture",
+        "used": 20,
+        "usage": 100,
+        "detail": "4 total"
+      },
+      {
+        "name": "Indomitable Dedication",
+        "used": 18,
+        "usage": 90,
+        "detail": "1 total"
+      }
+    ],
+    "skills": {
+      "Active skills": [
+        {
+          "name": "Ambush",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Savage Roar",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Insignia Explosion",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Heart Gore",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Quick Slice",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.17"
+        },
+        {
+          "name": "Storm Rampage",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Shadowstrike",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Defiance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Flash Slice",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14"
+        },
+        {
+          "name": "Whirlwind Slice",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14"
+        },
+        {
+          "name": "Shadow Fall",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        },
+        {
+          "name": "Infiltrate",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        }
+      ],
+      "Stigma": [
+        {
+          "name": "Savage Fang",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Swift Contract",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Triniel's Dagger",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Illusive Clone",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Assault Ambush",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Aerial Bind",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Shadow Walk",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Spiral Slice",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Throw Shadowblade",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Shadowstep",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Smoke Bomb",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Evasion Stance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Evasion Contract",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        }
+      ],
+      "Passive": [
+        {
+          "name": "Rear Smite",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.36"
+        },
+        {
+          "name": "Assault Stance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.34"
+        },
+        {
+          "name": "Exploit Weakness",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.28"
+        },
+        {
+          "name": "Impact Hit",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.23"
+        },
+        {
+          "name": "Ambush Stance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.17"
+        },
+        {
+          "name": "Determination",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Heightened Sixth Sense",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Defense Break",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14"
+        },
+        {
+          "name": "Revitalization Contract",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14"
+        },
+        {
+          "name": "Apply Poison",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.13"
+        }
+      ]
+    },
+    "traits": {
+      "Ambush": [
+        {
+          "number": 1,
+          "description": "+20% additional Back Attack Damage increase",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 2,
+          "description": "Absorbs 3% HP",
+          "used": 12,
+          "sample": 20,
+          "usage": 60.0
+        },
+        {
+          "number": 3,
+          "description": "Breaks Protective Shields on hit",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "50% chance to trigger [Whirlwind Slice] on hit",
+          "used": 7,
+          "sample": 20,
+          "usage": 35.0
+        },
+        {
+          "number": 5,
+          "description": "+2 consecutive uses",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        }
+      ],
+      "Savage Roar": [
+        {
+          "number": 1,
+          "description": "-20% MP consumed",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+20% Skill Speed",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "Obtains 1 extra insignia if [Savage Back Kick] target is a player",
+          "used": 2,
+          "sample": 19,
+          "usage": 10.5
+        },
+        {
+          "number": 4,
+          "description": "-1s [Shadowstrike] cooldown on hit",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "Increases Skill Accuracy by 300 and Skill Critical Hit by 30%",
+          "used": 12,
+          "sample": 19,
+          "usage": 63.2
+        }
+      ],
+      "Insignia Explosion": [
+        {
+          "number": 1,
+          "description": "Adds rotate effect",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+50% Multi-Hit Chance on hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "Keep 2 stacks of Insignias after [Insignia Explosion]",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "+1s Stun duration",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "-2s cooldown",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        }
+      ],
+      "Heart Gore": [
+        {
+          "number": 1,
+          "description": "Absorbs 0.7% HP",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+30% damage on landing Back Attack",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "Critical Hit on targets inflicted with Impact-type status",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "Multi-Hit on hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "+2 consecutive uses",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        }
+      ],
+      "Quick Slice": [
+        {
+          "number": 1,
+          "description": "+20% MP restored",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Absorbs 0.7% HP",
+          "used": 18,
+          "sample": 20,
+          "usage": 90.0
+        },
+        {
+          "number": 3,
+          "description": "+50% Multi-Hit Chance on hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "+30% skill Critical Hit",
+          "used": 2,
+          "sample": 20,
+          "usage": 10.0
+        },
+        {
+          "number": 5,
+          "description": "Ignores Block and Evasion",
+          "used": 1,
+          "sample": 20,
+          "usage": 5.0
+        }
+      ],
+      "Storm Rampage": [
+        {
+          "number": 1,
+          "description": "Absorbs 5% HP",
+          "used": 1,
+          "sample": 16,
+          "usage": 6.2
+        },
+        {
+          "number": 2,
+          "description": "Restores 120 MP on hit",
+          "used": 0,
+          "sample": 16,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 0,
+          "sample": 16,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "Multi-Hit on hit",
+          "used": 15,
+          "sample": 16,
+          "usage": 93.8
+        },
+        {
+          "number": 5,
+          "description": "-0.5s all Mastery skill cooldowns on hit",
+          "used": 15,
+          "sample": 16,
+          "usage": 93.8
+        }
+      ],
+      "Shadowstrike": [
+        {
+          "number": 1,
+          "description": "+1s Stun duration",
+          "used": 5,
+          "sample": 20,
+          "usage": 25.0
+        },
+        {
+          "number": 2,
+          "description": "+20% caster Critical Damage Boost for 10s on hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "50% chance to inflict Seal for 5s on hit",
+          "used": 8,
+          "sample": 20,
+          "usage": 40.0
+        },
+        {
+          "number": 4,
+          "description": "50% chance to inflict Root for 5s on hit",
+          "used": 2,
+          "sample": 20,
+          "usage": 10.0
+        },
+        {
+          "number": 5,
+          "description": "Changes to AoE skill",
+          "used": 5,
+          "sample": 20,
+          "usage": 25.0
+        }
+      ],
+      "Defiance": [
+        {
+          "number": 1,
+          "description": "Adds [Storm Slice] Chain Skill",
+          "used": 0,
+          "sample": 9,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Restores 1000 Stamina on using [Defiance]",
+          "used": 3,
+          "sample": 9,
+          "usage": 33.3
+        },
+        {
+          "number": 3,
+          "description": "Restores 20% HP on using [Defiance]",
+          "used": 9,
+          "sample": 9,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "+2s Tenacity duration",
+          "used": 1,
+          "sample": 9,
+          "usage": 11.1
+        },
+        {
+          "number": 5,
+          "description": "+50% PvE Damage Tolerance and +25% PvP Damage Tolerance for Tenacity duration",
+          "used": 4,
+          "sample": 9,
+          "usage": 44.4
+        }
+      ],
+      "Flash Slice": [
+        {
+          "number": 1,
+          "description": "+2s Blind duration",
+          "used": 0,
+          "sample": 18,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+6m Range",
+          "used": 18,
+          "sample": 18,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "Up to +20% damage when more targets are hit",
+          "used": 0,
+          "sample": 18,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "+1 consecutive use",
+          "used": 18,
+          "sample": 18,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "50% chance to rotate and inflict Stun for 3s on hitting a target afflicted with Blind",
+          "used": 0,
+          "sample": 18,
+          "usage": 0.0
+        }
+      ],
+      "Whirlwind Slice": [
+        {
+          "number": 1,
+          "description": "+50% Multi-Hit Chance on hit",
+          "used": 11,
+          "sample": 11,
+          "usage": 100.0
+        },
+        {
+          "number": 2,
+          "description": "Changes to AoE damage",
+          "used": 4,
+          "sample": 11,
+          "usage": 36.4
+        },
+        {
+          "number": 3,
+          "description": "+16m range",
+          "used": 3,
+          "sample": 11,
+          "usage": 27.3
+        },
+        {
+          "number": 4,
+          "description": "+20% Stun Chance",
+          "used": 0,
+          "sample": 11,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "25% chance to reset [Whirlwind Slice] cooldown on Evasion",
+          "used": 4,
+          "sample": 11,
+          "usage": 36.4
+        }
+      ],
+      "Shadow Fall": [
+        {
+          "number": 1,
+          "description": "Absorbs 10% HP",
+          "used": 9,
+          "sample": 9,
+          "usage": 100.0
+        },
+        {
+          "number": 2,
+          "description": "+10m range",
+          "used": 2,
+          "sample": 9,
+          "usage": 22.2
+        },
+        {
+          "number": 3,
+          "description": "-5s cooldown",
+          "used": 6,
+          "sample": 9,
+          "usage": 66.7
+        },
+        {
+          "number": 4,
+          "description": "+1s Knockdown duration",
+          "used": 0,
+          "sample": 9,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "Can be used on targets afflicted with Blind",
+          "used": 0,
+          "sample": 9,
+          "usage": 0.0
+        }
+      ],
+      "Infiltrate": [
+        {
+          "number": 1,
+          "description": "Restores 300 Stamina on landing [Infiltrate]",
+          "used": 16,
+          "sample": 18,
+          "usage": 88.9
+        },
+        {
+          "number": 2,
+          "description": "+10m [Infiltrate] range",
+          "used": 18,
+          "sample": 18,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "Breaks Protective Shields on landing [Infiltrate]",
+          "used": 1,
+          "sample": 18,
+          "usage": 5.6
+        },
+        {
+          "number": 4,
+          "description": "Adds [Dark Strike] Chain Skill",
+          "used": 0,
+          "sample": 18,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "+20% [Infiltrate] Blind Chance",
+          "used": 0,
+          "sample": 18,
+          "usage": 0.0
+        }
+      ]
+    }
+  },
+  "ideals": {
+    "className": "Assassin",
+    "source": "https://kisk.app/scoring",
+    "method": "https://kisk.app/scoring",
+    "sampleSize": 792,
+    "sampleDate": "2026-10-19",
+    "slots": {
+      "MainHand": [
+        {
+          "effect": "Weapon Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Multi-hit Chance",
+          "usage": 97.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 93.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 90.0
+        },
+        {
+          "effect": "Status Effect Accuracy",
+          "usage": 6.0
+        }
+      ],
+      "SubHand": [
+        {
+          "effect": "Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Weapon Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Multi-hit Chance",
+          "usage": 99.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 94.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 91.0
+        },
+        {
+          "effect": "Status Effect Accuracy",
+          "usage": 4.0
+        }
+      ],
+      "Torso": [
+        {
+          "effect": "Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 98.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 94.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 18.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 17.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 16.0
+        },
+        {
+          "effect": "Status Effect Resist",
+          "usage": 6.0
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 4.0
+        },
+        {
+          "effect": "Constitution",
+          "usage": 3.0
+        },
+        {
+          "effect": "Willpower",
+          "usage": 3.0
+        }
+      ],
+      "Pants": [
+        {
+          "effect": "Attack increase",
+          "usage": 100.0
+        },
+        {
+          "effect": "Damage Tolerance",
+          "usage": 95.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 93.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 89.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 3.0
+        },
+        {
+          "effect": "Status Effect Resist",
+          "usage": 3.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 2.0
+        },
+        {
+          "effect": "Constitution",
+          "usage": 1.0
+        }
+      ],
+      "Helmet": [
+        {
+          "effect": "Attack increase",
+          "usage": 100.0
+        },
+        {
+          "effect": "Double Chance",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 93.0
+        },
+        {
+          "effect": "Incoming Heal",
+          "usage": 23.0
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 4.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 3.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 2.0
+        },
+        {
+          "effect": "Status Effect Resist",
+          "usage": 1.0
+        }
+      ],
+      "Shoulder": [
+        {
+          "effect": "Critical Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Double Chance",
+          "usage": 99.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 98.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 15.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 15.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 10.0
+        },
+        {
+          "effect": "Endurance Penetration",
+          "usage": 3.0
+        },
+        {
+          "effect": "Endurance",
+          "usage": 2.0
+        },
+        {
+          "effect": "Status Effect Resist",
+          "usage": 1.0
+        }
+      ],
+      "Gloves": [
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 96.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 93.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 6.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 6.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 3.0
+        }
+      ],
+      "Boots": [
+        {
+          "effect": "Move Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 96.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 95.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 5.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 4.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 4.0
+        }
+      ],
+      "Cape": [
+        {
+          "effect": "Attack increase",
+          "usage": 100.0
+        },
+        {
+          "effect": "Double Chance",
+          "usage": 99.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 93.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 75.0
+        },
+        {
+          "effect": "Critical Damage Tolerance",
+          "usage": 7.0
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 4.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 2.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 2.0
+        }
+      ],
+      "Necklace": [
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 100.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 93.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 69.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 41.0
+        }
+      ],
+      "Earring": [
+        {
+          "effect": "Move Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 100.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 93.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 75.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 47.0
+        }
+      ],
+      "Ring": [
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 99.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 93.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 47.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 24.0
+        }
+      ],
+      "Bracelet": [
+        {
+          "effect": "Destruction [Zikel]",
+          "usage": 100.0
+        },
+        {
+          "effect": "Illusion [Kaisinel]",
+          "usage": 100.0
+        },
+        {
+          "effect": "Time [Siel]",
+          "usage": 100.0
+        },
+        {
+          "effect": "Wisdom [Lumiel]",
+          "usage": 99.0
+        },
+        {
+          "effect": "Justice [Nezekan]",
+          "usage": 84.0
+        },
+        {
+          "effect": "Death [Triniel]",
+          "usage": 69.0
+        },
+        {
+          "effect": "Freedom [Vaizel]",
+          "usage": 41.0
+        },
+        {
+          "effect": "Space [Israphel]",
+          "usage": 14.0
+        }
+      ]
+    }
+  }
+}

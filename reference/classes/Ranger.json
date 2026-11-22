@@ -1,0 +1,3932 @@
+{
+  "globalGuide": {
+    "className": "Ranger",
+    "service": "Global",
+    "source": "https://notmeter.com/?view=setup-guide",
+    "updated": "2026-11-21T18:27:53.4586437+00:00",
+    "sampleSize": 20,
+    "soul": {
+      "Weapons": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Attack",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Precision",
+            "used": 6,
+            "usage": 30
+          }
+        ]
+      },
+      "Guard": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Attack",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Precision",
+            "used": 8,
+            "usage": 40
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Deadshot",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Drill Dart",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Gale Arrow",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Snipe",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Tempest Shot",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Helm": {
+        "Options": [
+          {
+            "name": "Double Chance",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Attack",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Attack increase",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Incoming Heal",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Critical Hit",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Focused Eye",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Hunter's Resolve",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Vigilant Eye",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Melee Fire",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Pauldrons": {
+        "Options": [
+          {
+            "name": "Critical Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Attack",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Accuracy",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Critical Hit",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Defense",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Focused Eye",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Hunter's Resolve",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Top": {
+        "Options": [
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Critical Hit",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Accuracy",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Defense increase",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Focused Eye",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Hunter's Resolve",
+            "used": 14,
+            "usage": 70
+          }
+        ]
+      },
+      "Legs": {
+        "Options": [
+          {
+            "name": "Attack increase",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Damage Tolerance",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Attack",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Critical Hit",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Accuracy",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Focused Eye",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Hunter's Resolve",
+            "used": 13,
+            "usage": 65
+          }
+        ]
+      },
+      "Gloves": {
+        "Options": [
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Critical Hit",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Accuracy",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Defense increase",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Hunter's Resolve",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Focused Eye",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Revitalization Contract",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Shoes": {
+        "Options": [
+          {
+            "name": "Move Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Critical Hit",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Accuracy",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Defense increase",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Focused Eye",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Hunter's Resolve",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Necklace": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Precision",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Critical Hit",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Accuracy",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Flight Power",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Focused Eye",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Hunter's Resolve",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Earrings": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Move Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Precision",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Critical Hit",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Accuracy",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Evasion",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Hunter's Resolve",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Concentrated Fire",
+            "used": 3,
+            "usage": 15
+          }
+        ]
+      },
+      "Ring": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Attack",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Precision",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Accuracy",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Critical Hit",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Critical Hit Resist",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Deadshot",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Drill Dart",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Tempest Shot",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Snipe",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Gale Arrow",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Burst Arrow",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Arrow Scattershot",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Bracelet": {
+        "Options": [
+          {
+            "name": "Illusion [Kaisinel]",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Wisdom [Lumiel]",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Destruction [Zikel]",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "MP",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Critical Hit",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Natural MP Regen",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Death [Triniel]",
+            "used": 12,
+            "usage": 60
+          }
+        ]
+      },
+      "Cloak": {
+        "Options": [
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Attack",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Critical Damage Tolerance",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Critical Hit",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Constitution",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Hunter's Resolve",
+            "used": 13,
+            "usage": 65
+          }
+        ]
+      }
+    },
+    "stones": {
+      "Manastones · Damage Boost": [
+        {
+          "name": "Damage Boost",
+          "used": 13,
+          "usage": 65,
+          "detail": "19 total"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "used": 11,
+          "usage": 55,
+          "detail": "25 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 11,
+          "usage": 55,
+          "detail": "16 total"
+        },
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 9,
+          "usage": 45,
+          "detail": "18 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 3,
+          "usage": 15,
+          "detail": "5 total"
+        }
+      ],
+      "Soulstones · Damage Boost": [
+        {
+          "name": "Critical Damage Boost",
+          "used": 11,
+          "usage": 55,
+          "detail": "14 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 11,
+          "usage": 55,
+          "detail": "12 total"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "used": 11,
+          "usage": 55,
+          "detail": "23 total"
+        },
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 7,
+          "usage": 35,
+          "detail": "11 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 7,
+          "usage": 35,
+          "detail": "7 total"
+        }
+      ]
+    },
+    "arcana": {
+      "Chalice": {
+        "Most-used cards": [
+          {
+            "name": "Chalice of Vigor",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Drill Dart",
+            "used": 14,
+            "usage": 70,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Tempest Shot",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Deadshot",
+            "used": 9,
+            "usage": 45,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Focused Eye",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Gale Arrow",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Burst Arrow",
+            "used": 5,
+            "usage": 25,
+            "detail": "Lv.3"
+          }
+        ]
+      },
+      "Parchment": {
+        "Most-used cards": [
+          {
+            "name": "Parchment of Vigor",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Parchment of Magic",
+            "used": 5,
+            "usage": 25
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Drill Dart",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Tempest Shot",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Snipe",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Burst Arrow",
+            "used": 14,
+            "usage": 70,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Explosion Trap",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Snare Shot",
+            "used": 4,
+            "usage": 20,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Compass": {
+        "Most-used cards": [
+          {
+            "name": "Compass of Magic",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Compass of Vigor",
+            "used": 10,
+            "usage": 50
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Deadshot",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Gale Arrow",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Arrow Scattershot",
+            "used": 11,
+            "usage": 55,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Defiance",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Marking Shot",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Suppressing Arrow",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Bell": {
+        "Most-used cards": [
+          {
+            "name": "Bell of Magic",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Hunter's Resolve",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Rooting Eye",
+            "used": 17,
+            "usage": 85,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Revitalization Contract",
+            "used": 16,
+            "usage": 80,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Vigilant Eye",
+            "used": 14,
+            "usage": 70,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Wind Vigor",
+            "used": 13,
+            "usage": 65,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Mirror": {
+        "Most-used cards": [
+          {
+            "name": "Mirror of Magic",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Mirror of Vigor",
+            "used": 5,
+            "usage": 25
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Concentrated Fire",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 17,
+            "usage": 85,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Melee Fire",
+            "used": 14,
+            "usage": 70,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Unyielding Resolve",
+            "used": 11,
+            "usage": 55,
+            "detail": "Lv.2"
+          }
+        ]
+      }
+    },
+    "arcanaSets": [
+      {
+        "name": "Magic Armor",
+        "used": 20,
+        "usage": 100,
+        "detail": "3 total"
+      },
+      {
+        "name": "Primal Vigor",
+        "used": 20,
+        "usage": 100,
+        "detail": "2 total"
+      }
+    ],
+    "skills": {
+      "Active skills": [
+        {
+          "name": "Deadshot",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Drill Dart",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Tempest Shot",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Gale Arrow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.18"
+        },
+        {
+          "name": "Snipe",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.18"
+        },
+        {
+          "name": "Burst Arrow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Marking Shot",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.13"
+        },
+        {
+          "name": "Snare Shot",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        },
+        {
+          "name": "Defiance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.11"
+        },
+        {
+          "name": "Explosion Trap",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.8"
+        },
+        {
+          "name": "Suppressing Arrow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.6"
+        },
+        {
+          "name": "Arrow Scattershot",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.4"
+        }
+      ],
+      "Stigma": [
+        {
+          "name": "Vaizel's Authority",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Bow of Blessing",
+          "used": 19,
+          "usage": 95,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Supporting Fire",
+          "used": 16,
+          "usage": 80,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Griffon Arrow",
+          "used": 15,
+          "usage": 75,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Mother Nature's Breath",
+          "used": 4,
+          "usage": 20,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Ambush Kick",
+          "used": 2,
+          "usage": 10,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Stealth",
+          "used": 2,
+          "usage": 10,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Explosive Arrow",
+          "used": 2,
+          "usage": 10,
+          "detail": "Lv.13"
+        }
+      ],
+      "Passive": [
+        {
+          "name": "Focused Eye",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.27"
+        },
+        {
+          "name": "Hunter's Resolve",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Hunter's Soul",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Rooting Eye",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Concentrated Fire",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Melee Fire",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Vigilant Eye",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Wind Vigor",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.13"
+        },
+        {
+          "name": "Revitalization Contract",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        },
+        {
+          "name": "Unyielding Resolve",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.11"
+        }
+      ]
+    },
+    "traits": {
+      "Deadshot": [
+        {
+          "number": 1,
+          "description": "Removes MP consumed",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+30% Skill Speed",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 12,
+          "sample": 20,
+          "usage": 60.0
+        },
+        {
+          "number": 4,
+          "description": "Ignores Block and Evasion and lands as Multi-Hit",
+          "used": 8,
+          "sample": 20,
+          "usage": 40.0
+        },
+        {
+          "number": 5,
+          "description": "[Deadshot] grants extra damage on hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        }
+      ],
+      "Drill Dart": [
+        {
+          "number": 1,
+          "description": "Absorbs 3% HP",
+          "used": 2,
+          "sample": 20,
+          "usage": 10.0
+        },
+        {
+          "number": 2,
+          "description": "+2s Bleed duration",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "+20% Skill Speed",
+          "used": 18,
+          "sample": 20,
+          "usage": 90.0
+        },
+        {
+          "number": 4,
+          "description": "Multi-Hit on hit",
+          "used": 16,
+          "sample": 20,
+          "usage": 80.0
+        },
+        {
+          "number": 5,
+          "description": "Activates [Drill Dart] 1 extra time",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        }
+      ],
+      "Tempest Shot": [
+        {
+          "number": 1,
+          "description": "-20% MP consumed",
+          "used": 2,
+          "sample": 20,
+          "usage": 10.0
+        },
+        {
+          "number": 2,
+          "description": "+10% skill Critical Hit",
+          "used": 14,
+          "sample": 20,
+          "usage": 70.0
+        },
+        {
+          "number": 3,
+          "description": "Deals up to 12% more damage when less targets are hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "5% chance to inflict Knock Back on Critical Hit",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "+20% Skill Speed",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        }
+      ],
+      "Gale Arrow": [
+        {
+          "number": 1,
+          "description": "+5s duration",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "50% chance to inflict Knock Back on hit",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 9,
+          "sample": 20,
+          "usage": 45.0
+        },
+        {
+          "number": 4,
+          "description": "Increases Combat Speed, PvE Damage Boost, and PvP Damage Boost when less targets hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "-10s cooldown",
+          "used": 19,
+          "sample": 20,
+          "usage": 95.0
+        }
+      ],
+      "Snipe": [
+        {
+          "number": 1,
+          "description": "+20% MP restored",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Absorbs 0.7% HP",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "+50% Multi-Hit on hit",
+          "used": 10,
+          "sample": 20,
+          "usage": 50.0
+        },
+        {
+          "number": 4,
+          "description": "-1s [Deadshot] cooldown on hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "Adds [Tempest Arrow] Chain Skill",
+          "used": 17,
+          "sample": 20,
+          "usage": 85.0
+        }
+      ],
+      "Burst Arrow": [
+        {
+          "number": 1,
+          "description": "Absorbs 10% HP",
+          "used": 1,
+          "sample": 20,
+          "usage": 5.0
+        },
+        {
+          "number": 2,
+          "description": "+50% Multi-Hit on hit",
+          "used": 5,
+          "sample": 20,
+          "usage": 25.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 9,
+          "sample": 20,
+          "usage": 45.0
+        },
+        {
+          "number": 4,
+          "description": "Up to +20% damage when less targets hit",
+          "used": 19,
+          "sample": 20,
+          "usage": 95.0
+        },
+        {
+          "number": 5,
+          "description": "25% chance to reset cooldown on hit",
+          "used": 9,
+          "sample": 20,
+          "usage": 45.0
+        }
+      ],
+      "Marking Shot": [
+        {
+          "number": 1,
+          "description": "+5% Perfect Chance for the duration",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 2,
+          "description": "30% chance to inflict Knock Back on hit",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "+5s duration",
+          "used": 19,
+          "sample": 20,
+          "usage": 95.0
+        },
+        {
+          "number": 4,
+          "description": "+1 consecutive use",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "Ignores Block and Evasion and lands as a Critical Hit",
+          "used": 1,
+          "sample": 20,
+          "usage": 5.0
+        }
+      ],
+      "Snare Shot": [
+        {
+          "number": 1,
+          "description": "+20% Move Speed reduction",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+20% Skill Speed",
+          "used": 17,
+          "sample": 20,
+          "usage": 85.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 18,
+          "sample": 20,
+          "usage": 90.0
+        },
+        {
+          "number": 4,
+          "description": "Adds [Shackling Arrow] Chain Skill",
+          "used": 4,
+          "sample": 20,
+          "usage": 20.0
+        },
+        {
+          "number": 5,
+          "description": "+2s Slow and Root duration",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        }
+      ],
+      "Defiance": [
+        {
+          "number": 1,
+          "description": "Adds [Lightning Arrow] Chain Skill",
+          "used": 0,
+          "sample": 16,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Restores 1000 Stamina on using [Defiance]",
+          "used": 2,
+          "sample": 16,
+          "usage": 12.5
+        },
+        {
+          "number": 3,
+          "description": "Restores 20% HP on using [Defiance]",
+          "used": 16,
+          "sample": 16,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "+2s Tenacity duration",
+          "used": 2,
+          "sample": 16,
+          "usage": 12.5
+        },
+        {
+          "number": 5,
+          "description": "+50% PvE Damage Tolerance and +25% PvP Damage Tolerance for Tenacity duration",
+          "used": 2,
+          "sample": 16,
+          "usage": 12.5
+        }
+      ],
+      "Explosion Trap": [
+        {
+          "number": 1,
+          "description": "Pulls enemies on explosion",
+          "used": 0,
+          "sample": 9,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+1s Stun duration",
+          "used": 0,
+          "sample": 9,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Extra damage after 3s on hit",
+          "used": 0,
+          "sample": 9,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "+20% Stun Chance",
+          "used": 0,
+          "sample": 9,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "+1 consecutive use",
+          "used": 0,
+          "sample": 9,
+          "usage": 0.0
+        }
+      ],
+      "Suppressing Arrow": [
+        {
+          "number": 1,
+          "description": "+50% Multi-Hit on hit",
+          "used": 3,
+          "sample": 6,
+          "usage": 50.0
+        },
+        {
+          "number": 2,
+          "description": "+1s Stun duration",
+          "used": 1,
+          "sample": 6,
+          "usage": 16.7
+        },
+        {
+          "number": 3,
+          "description": "+20% Skill Speed",
+          "used": 3,
+          "sample": 6,
+          "usage": 50.0
+        },
+        {
+          "number": 4,
+          "description": "+20% Stun Chance",
+          "used": 0,
+          "sample": 6,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "25% chance to reset cooldown on hit",
+          "used": 0,
+          "sample": 6,
+          "usage": 0.0
+        }
+      ],
+      "Arrow Scattershot": [
+        {
+          "number": 1,
+          "description": "Absorbs 5% HP",
+          "used": 1,
+          "sample": 6,
+          "usage": 16.7
+        },
+        {
+          "number": 2,
+          "description": "Restores 120 MP on hit",
+          "used": 0,
+          "sample": 6,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 0,
+          "sample": 6,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "Multi-Hit on hit",
+          "used": 4,
+          "sample": 6,
+          "usage": 66.7
+        },
+        {
+          "number": 5,
+          "description": "-1s all cooldowns on hit",
+          "used": 3,
+          "sample": 6,
+          "usage": 50.0
+        }
+      ]
+    }
+  },
+  "buildGuide": {
+    "className": "Ranger",
+    "service": "Korea / Taiwan",
+    "source": "https://notmeter.com/?view=setup-guide",
+    "updated": "2026-11-21T16:44:54.5839834+00:00",
+    "sampleSize": 20,
+    "soul": {
+      "Weapons": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Precision",
+            "used": 17,
+            "usage": 85
+          }
+        ]
+      },
+      "Guard": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Precision",
+            "used": 14,
+            "usage": 70
+          }
+        ]
+      },
+      "Helm": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Hit",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Incoming Heal",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Accuracy",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Hunter's Resolve",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 5,
+            "usage": 25
+          }
+        ]
+      },
+      "Pauldrons": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Hit",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Accuracy",
+            "used": 6,
+            "usage": 30
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Hunter's Resolve",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Concentrated Fire",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Top": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Hit",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Accuracy",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Defense increase",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Natural MP Regen",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Hunter's Resolve",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Concentrated Fire",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Legs": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Tolerance",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Critical Hit",
+            "used": 15,
+            "usage": 75
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Hunter's Resolve",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Gloves": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Hit",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Accuracy",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Defense increase",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Hunter's Resolve",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 5,
+            "usage": 25
+          }
+        ]
+      },
+      "Shoes": {
+        "Options": [
+          {
+            "name": "Move Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Hit",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Accuracy",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Defense increase",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Hunter's Resolve",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 6,
+            "usage": 30
+          }
+        ]
+      },
+      "Necklace": {
+        "Options": [
+          {
+            "name": "Critical Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Accuracy",
+            "used": 19,
+            "usage": 95
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Hunter's Resolve",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Concentrated Fire",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Melee Fire",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Rooting Eye",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Wind Vigor",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Earrings": {
+        "Options": [
+          {
+            "name": "Accuracy",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "HP",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Hunter's Resolve",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Concentrated Fire",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Rooting Eye",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Wind Vigor",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Vigilant Eye",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Ring": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Critical Hit",
+            "used": 5,
+            "usage": 25
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Gale Arrow",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Drill Dart",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Deadshot",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Burst Arrow",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Tempest Shot",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Snare Shot",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Arrow Scattershot",
+            "used": 15,
+            "usage": 75
+          }
+        ]
+      },
+      "Bracelet": {
+        "Options": [
+          {
+            "name": "Time [Siel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Justice [Nezekan]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Wisdom [Lumiel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Destruction [Zikel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Illusion [Kaisinel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Death [Triniel]",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Space [Israphel]",
+            "used": 6,
+            "usage": 30
+          }
+        ]
+      },
+      "Brooch": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Precision",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Accuracy",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Critical Hit",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Constitution",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Willpower",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Block Penetration",
+            "used": 3,
+            "usage": 15
+          }
+        ]
+      },
+      "Cloak": {
+        "Options": [
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Critical Hit",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Critical Damage Tolerance",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Hunter's Resolve",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 3,
+            "usage": 15
+          }
+        ]
+      },
+      "Seal": {
+        "Options": [
+          {
+            "name": "PvE Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Boss Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Critical Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Max Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Attack Bonus",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Power Shard Damage Bonus",
+            "used": 18,
+            "usage": 90
+          }
+        ]
+      }
+    },
+    "stones": {
+      "Manastones · Damage Boost": [
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 20,
+          "usage": 100,
+          "detail": "166 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 8,
+          "usage": 40,
+          "detail": "11 total"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "used": 7,
+          "usage": 35,
+          "detail": "12 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 4,
+          "usage": 20,
+          "detail": "4 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 3,
+          "usage": 15,
+          "detail": "3 total"
+        }
+      ],
+      "Soulstones · Damage Boost": [
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 20,
+          "usage": 100,
+          "detail": "196 total"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "used": 13,
+          "usage": 65,
+          "detail": "27 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 7,
+          "usage": 35,
+          "detail": "8 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 6,
+          "usage": 30,
+          "detail": "8 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 4,
+          "usage": 20,
+          "detail": "4 total"
+        }
+      ]
+    },
+    "arcana": {
+      "Chalice": {
+        "Most-used cards": [
+          {
+            "name": "Chalice of Protection",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Chalice of Indomitability",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Hunter's Resolve",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Drill Dart",
+            "used": 11,
+            "usage": 55,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Gale Arrow",
+            "used": 7,
+            "usage": 35,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Snipe",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Burst Arrow",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Parchment": {
+        "Most-used cards": [
+          {
+            "name": "Parchment of Protection",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Parchment of Punishment",
+            "used": 3,
+            "usage": 15
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Drill Dart",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Burst Arrow",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Snare Shot",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Snipe",
+            "used": 14,
+            "usage": 70,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Tempest Shot",
+            "used": 13,
+            "usage": 65,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Compass": {
+        "Most-used cards": [
+          {
+            "name": "Compass of Punishment",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Deadshot",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Gale Arrow",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Arrow Scattershot",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Marking Shot",
+            "used": 9,
+            "usage": 45,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Suppressing Arrow",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Defiance",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Bell": {
+        "Most-used cards": [
+          {
+            "name": "Bell of Punishment",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Hunter's Resolve",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Rooting Eye",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Revitalization Contract",
+            "used": 16,
+            "usage": 80,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Vigilant Eye",
+            "used": 14,
+            "usage": 70,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Wind Vigor",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Mirror": {
+        "Most-used cards": [
+          {
+            "name": "Mirror of Protection",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Hunter's Soul",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Concentrated Fire",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Melee Fire",
+            "used": 16,
+            "usage": 80,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Unyielding Resolve",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Scales": {
+        "Most-used cards": [
+          {
+            "name": "Scales of Punishment",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Scales of Indomitability",
+            "used": 5,
+            "usage": 25
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Focused Eye",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Hunter's Resolve",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Gale Arrow",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Drill Dart",
+            "used": 8,
+            "usage": 40,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Deadshot",
+            "used": 7,
+            "usage": 35,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Snare Shot",
+            "used": 5,
+            "usage": 25,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Key": {
+        "Most-used cards": [
+          {
+            "name": "Key of Protection",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Key of Indomitability",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Key of Punishment",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": []
+      },
+      "Hourglass": {
+        "Most-used cards": [
+          {
+            "name": "Hourglass of Protection",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Hourglass of Punishment",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Hourglass of Indomitability",
+            "used": 3,
+            "usage": 15
+          }
+        ],
+        "Most-used attached skills": []
+      },
+      "Dice": {
+        "Most-used cards": [
+          {
+            "name": "Dice of Indomitability",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Dice of Punishment",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Dice of Protection",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": []
+      },
+      "Lantern": {
+        "Most-used cards": [
+          {
+            "name": "Lantern of Punishment",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Lantern of Indomitability",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Lantern of Protection",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Most-used attached skills": []
+      }
+    },
+    "arcanaSets": [
+      {
+        "name": "Protected Soul",
+        "used": 20,
+        "usage": 100,
+        "detail": "4 total"
+      },
+      {
+        "name": "Punishing Overture",
+        "used": 20,
+        "usage": 100,
+        "detail": "4 total"
+      },
+      {
+        "name": "Indomitable Dedication",
+        "used": 18,
+        "usage": 90,
+        "detail": "2 total"
+      }
+    ],
+    "skills": {
+      "Active skills": [
+        {
+          "name": "Gale Arrow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Drill Dart",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Deadshot",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Burst Arrow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Tempest Shot",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Snare Shot",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Snipe",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Arrow Scattershot",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Defiance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14"
+        },
+        {
+          "name": "Marking Shot",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14"
+        },
+        {
+          "name": "Suppressing Arrow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        },
+        {
+          "name": "Explosion Trap",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        }
+      ],
+      "Stigma": [
+        {
+          "name": "Vaizel's Authority",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Supporting Fire",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Bow of Blessing",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Explosive Arrow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Griffon Arrow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.23"
+        },
+        {
+          "name": "Assault Smite",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Ensnaring Trap",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Ambush Kick",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Mother Nature's Breath",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Sealing Arrow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Stealth",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Arrow Storm",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Illusory Arrow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        }
+      ],
+      "Passive": [
+        {
+          "name": "Focused Eye",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.36"
+        },
+        {
+          "name": "Hunter's Resolve",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.34"
+        },
+        {
+          "name": "Hunter's Soul",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Rooting Eye",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Concentrated Fire",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Vigilant Eye",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Melee Fire",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Wind Vigor",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Revitalization Contract",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Unyielding Resolve",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.11"
+        }
+      ]
+    },
+    "traits": {
+      "Gale Arrow": [
+        {
+          "number": 1,
+          "description": "+5s duration",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "50% chance to inflict Knock Back on hit",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "Increases Combat Speed, PvE Damage Boost, and PvP Damage Boost when less targets hit",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "-10s cooldown",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        }
+      ],
+      "Drill Dart": [
+        {
+          "number": 1,
+          "description": "Absorbs 3% HP",
+          "used": 14,
+          "sample": 19,
+          "usage": 73.7
+        },
+        {
+          "number": 2,
+          "description": "+2s Bleed duration",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "+20% Skill Speed",
+          "used": 13,
+          "sample": 19,
+          "usage": 68.4
+        },
+        {
+          "number": 4,
+          "description": "Multi-Hit on hit",
+          "used": 11,
+          "sample": 19,
+          "usage": 57.9
+        },
+        {
+          "number": 5,
+          "description": "Activates [Drill Dart] 1 extra time",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        }
+      ],
+      "Deadshot": [
+        {
+          "number": 1,
+          "description": "Removes MP consumed",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+30% Skill Speed",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 18,
+          "sample": 19,
+          "usage": 94.7
+        },
+        {
+          "number": 4,
+          "description": "Ignores Block and Evasion and lands as Multi-Hit",
+          "used": 1,
+          "sample": 19,
+          "usage": 5.3
+        },
+        {
+          "number": 5,
+          "description": "Extra damage on landing [Deadshot]",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        }
+      ],
+      "Burst Arrow": [
+        {
+          "number": 1,
+          "description": "Absorbs 10% HP",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+50% Multi-Hit Chance on hit",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 17,
+          "sample": 19,
+          "usage": 89.5
+        },
+        {
+          "number": 4,
+          "description": "Additional damage increase while Precision is active",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "+2s Inspiration duration",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        }
+      ],
+      "Tempest Shot": [
+        {
+          "number": 1,
+          "description": "-20% MP consumed",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+10% skill Critical Hit",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Deals up to 12% more damage when less targets are hit",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "5% chance to inflict Knock Back on Critical Hit",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "+20% Skill Speed",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        }
+      ],
+      "Snare Shot": [
+        {
+          "number": 1,
+          "description": "Removes MP consumed and restores 200 MP on hit",
+          "used": 1,
+          "sample": 19,
+          "usage": 5.3
+        },
+        {
+          "number": 2,
+          "description": "+20% Skill Speed",
+          "used": 16,
+          "sample": 19,
+          "usage": 84.2
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "Adds [Shackling Arrow] Chain Skill",
+          "used": 5,
+          "sample": 19,
+          "usage": 26.3
+        },
+        {
+          "number": 5,
+          "description": "+2s Binding and Root duration",
+          "used": 2,
+          "sample": 19,
+          "usage": 10.5
+        }
+      ],
+      "Snipe": [
+        {
+          "number": 1,
+          "description": "+20% MP restored",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Absorbs 0.7% HP",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "+50% Multi-Hit Chance on hit",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "-1s [Deadshot] cooldown on hit",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "Adds [Tempest Arrow] Chain Skill",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        }
+      ],
+      "Arrow Scattershot": [
+        {
+          "number": 1,
+          "description": "Absorbs 1.5% HP",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Restores 120 MP on hit",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "Multi-Hit on hit",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "-0.5s Mastery skill cooldowns on hit",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        }
+      ],
+      "Defiance": [
+        {
+          "number": 1,
+          "description": "Adds [Lightning Arrow] Chain Skill",
+          "used": 0,
+          "sample": 13,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Restores 1000 Stamina on using [Defiance]",
+          "used": 5,
+          "sample": 13,
+          "usage": 38.5
+        },
+        {
+          "number": 3,
+          "description": "Restores 20% HP on using [Defiance]",
+          "used": 13,
+          "sample": 13,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "+2s Tenacity duration",
+          "used": 8,
+          "sample": 13,
+          "usage": 61.5
+        },
+        {
+          "number": 5,
+          "description": "+50% PvE Damage Tolerance and +25% PvP Damage Tolerance for Tenacity duration",
+          "used": 0,
+          "sample": 13,
+          "usage": 0.0
+        }
+      ],
+      "Marking Shot": [
+        {
+          "number": 1,
+          "description": "+10% Perfect Chance for the duration",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 2,
+          "description": "30% chance to inflict Knock Back on hit",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "+5s duration",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "+1 consecutive use",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "Ignores Block and Evasion and lands as a Critical Hit",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        }
+      ]
+    }
+  },
+  "ideals": {
+    "className": "Ranger",
+    "source": "https://kisk.app/scoring",
+    "method": "https://kisk.app/scoring",
+    "sampleSize": 1158,
+    "sampleDate": "2026-10-19",
+    "slots": {
+      "MainHand": [
+        {
+          "effect": "Weapon Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 99.0
+        },
+        {
+          "effect": "Multi-hit Chance",
+          "usage": 98.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 86.0
+        },
+        {
+          "effect": "Status Effect Accuracy",
+          "usage": 10.0
+        }
+      ],
+      "SubHand": [
+        {
+          "effect": "Weapon Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Multi-hit Chance",
+          "usage": 99.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 98.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 89.0
+        },
+        {
+          "effect": "Status Effect Accuracy",
+          "usage": 3.0
+        }
+      ],
+      "Torso": [
+        {
+          "effect": "Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 97.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 94.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 86.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 67.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 30.0
+        },
+        {
+          "effect": "Status Effect Resist",
+          "usage": 12.0
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 10.0
+        },
+        {
+          "effect": "Constitution",
+          "usage": 8.0
+        },
+        {
+          "effect": "Endurance",
+          "usage": 7.0
+        }
+      ],
+      "Pants": [
+        {
+          "effect": "Attack increase",
+          "usage": 100.0
+        },
+        {
+          "effect": "Damage Tolerance",
+          "usage": 97.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 94.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 93.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 40.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 13.0
+        },
+        {
+          "effect": "Status Effect Resist",
+          "usage": 5.0
+        },
+        {
+          "effect": "Endurance",
+          "usage": 3.0
+        }
+      ],
+      "Helmet": [
+        {
+          "effect": "Double Chance",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack increase",
+          "usage": 99.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 96.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 59.0
+        },
+        {
+          "effect": "Incoming Heal",
+          "usage": 54.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 24.0
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 10.0
+        },
+        {
+          "effect": "Endurance",
+          "usage": 4.0
+        },
+        {
+          "effect": "Constitution",
+          "usage": 2.0
+        }
+      ],
+      "Shoulder": [
+        {
+          "effect": "Critical Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Double Chance",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 98.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 87.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 64.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 26.0
+        },
+        {
+          "effect": "Endurance Penetration",
+          "usage": 6.0
+        },
+        {
+          "effect": "Endurance",
+          "usage": 6.0
+        },
+        {
+          "effect": "Constitution",
+          "usage": 4.0
+        }
+      ],
+      "Gloves": [
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 97.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 95.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 70.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 32.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 21.0
+        },
+        {
+          "effect": "Endurance Penetration",
+          "usage": 3.0
+        },
+        {
+          "effect": "Status Effect Resist",
+          "usage": 1.0
+        }
+      ],
+      "Boots": [
+        {
+          "effect": "Move Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 97.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 94.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 69.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 29.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 21.0
+        },
+        {
+          "effect": "Constitution",
+          "usage": 2.0
+        },
+        {
+          "effect": "Status Effect Resist",
+          "usage": 2.0
+        }
+      ],
+      "Cape": [
+        {
+          "effect": "Double Chance",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack increase",
+          "usage": 99.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 95.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 87.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 28.0
+        },
+        {
+          "effect": "Critical Damage Tolerance",
+          "usage": 23.0
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 10.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 7.0
+        }
+      ],
+      "Necklace": [
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 100.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 99.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 99.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 97.0
+        },
+        {
+          "effect": "Defense",
+          "usage": 6.0
+        },
+        {
+          "effect": "HP",
+          "usage": 4.0
+        },
+        {
+          "effect": "Evasion",
+          "usage": 1.0
+        }
+      ],
+      "Earring": [
+        {
+          "effect": "Move Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 100.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 100.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 99.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 99.0
+        },
+        {
+          "effect": "Defense",
+          "usage": 7.0
+        },
+        {
+          "effect": "HP",
+          "usage": 5.0
+        },
+        {
+          "effect": "Intelligence",
+          "usage": 2.0
+        },
+        {
+          "effect": "Evasion",
+          "usage": 1.0
+        }
+      ],
+      "Ring": [
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 99.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 96.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 54.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 21.0
+        }
+      ],
+      "Bracelet": [
+        {
+          "effect": "Destruction [Zikel]",
+          "usage": 100.0
+        },
+        {
+          "effect": "Time [Siel]",
+          "usage": 100.0
+        },
+        {
+          "effect": "Illusion [Kaisinel]",
+          "usage": 100.0
+        },
+        {
+          "effect": "Wisdom [Lumiel]",
+          "usage": 98.0
+        },
+        {
+          "effect": "Justice [Nezekan]",
+          "usage": 85.0
+        },
+        {
+          "effect": "Death [Triniel]",
+          "usage": 79.0
+        },
+        {
+          "effect": "Freedom [Vaizel]",
+          "usage": 33.0
+        },
+        {
+          "effect": "Space [Israphel]",
+          "usage": 14.0
+        }
+      ]
+    }
+  }
+}

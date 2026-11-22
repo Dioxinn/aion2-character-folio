@@ -1,0 +1,3998 @@
+{
+  "globalGuide": {
+    "className": "Chanter",
+    "service": "Global",
+    "source": "https://notmeter.com/?view=setup-guide",
+    "updated": "2026-11-21T18:27:53.4586437+00:00",
+    "sampleSize": 20,
+    "soul": {
+      "Weapons": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Damage Boost",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Attack",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Status Effect Chance",
+            "used": 5,
+            "usage": 25
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Onslaught",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Guard": {
+        "Options": [
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Might",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Attack",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Precision",
+            "used": 4,
+            "usage": 20
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Onslaught",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Spinning Strike",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Helm": {
+        "Options": [
+          {
+            "name": "Attack increase",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Attack",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Double Chance",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Incoming Heal",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Critical Hit",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Endurance",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Attack Preparation",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Impact Hit",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Wind's Promise",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Pauldrons": {
+        "Options": [
+          {
+            "name": "Critical Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Attack",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Accuracy",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Critical Hit",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Wind's Promise",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Attack Preparation",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Impact Hit",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Survival Willpower",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Top": {
+        "Options": [
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Critical Hit",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Critical Damage Defense",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Accuracy",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Attack Preparation",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Impact Hit",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Wind's Promise",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 3,
+            "usage": 15
+          }
+        ]
+      },
+      "Legs": {
+        "Options": [
+          {
+            "name": "Attack increase",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Attack",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Damage Tolerance",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Critical Hit",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Critical Hit Resist",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Wind's Promise",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Attack Preparation",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Impact Hit",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Survival Willpower",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Gloves": {
+        "Options": [
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Critical Hit",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Defense increase",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Accuracy",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Attack Preparation",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Wind's Promise",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Impact Hit",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Shoes": {
+        "Options": [
+          {
+            "name": "Move Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Critical Hit",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Wind's Promise",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Attack Preparation",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Impact Hit",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Blessing of Life",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Necklace": {
+        "Options": [
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Might",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Accuracy",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Critical Hit",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Precision",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Block",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Attack Preparation",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Wind's Promise",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Impact Hit",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Earrings": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Move Speed",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Precision",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Critical Hit",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Accuracy",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Block",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Wind's Promise",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack Preparation",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Impact Hit",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Ring": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Attack",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Precision",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Accuracy",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Critical Hit",
+            "used": 5,
+            "usage": 25
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Dark Crush",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Onslaught",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Spinning Strike",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Incandescent Blow",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Recuperation",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Rushing Smash",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Impactful Crush",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Bracelet": {
+        "Options": [
+          {
+            "name": "Illusion [Kaisinel]",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Destruction [Zikel]",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Wisdom [Lumiel]",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "MP",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Critical Hit",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Natural MP Regen",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Evasion",
+            "used": 12,
+            "usage": 60
+          }
+        ]
+      },
+      "Cloak": {
+        "Options": [
+          {
+            "name": "Double Chance",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Attack",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Attack increase",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Critical Damage Tolerance",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Defense",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Accuracy",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Attack Preparation",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Wind's Promise",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Impact Hit",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Survival Willpower",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      }
+    },
+    "stones": {
+      "Manastones · Damage Boost": [
+        {
+          "name": "Damage Boost",
+          "used": 12,
+          "usage": 60,
+          "detail": "17 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 11,
+          "usage": 55,
+          "detail": "14 total"
+        },
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 11,
+          "usage": 55,
+          "detail": "15 total"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "used": 10,
+          "usage": 50,
+          "detail": "30 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 7,
+          "usage": 35,
+          "detail": "9 total"
+        }
+      ],
+      "Soulstones · Damage Boost": [
+        {
+          "name": "Weapon Damage Boost",
+          "used": 12,
+          "usage": 60,
+          "detail": "21 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 7,
+          "usage": 35,
+          "detail": "16 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 7,
+          "usage": 35,
+          "detail": "12 total"
+        },
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 6,
+          "usage": 30,
+          "detail": "8 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 3,
+          "usage": 15,
+          "detail": "4 total"
+        }
+      ]
+    },
+    "arcana": {
+      "Chalice": {
+        "Most-used cards": [
+          {
+            "name": "Chalice of Vigor",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Chalice of Magic",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Dark Crush",
+            "used": 17,
+            "usage": 85,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Onslaught",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Spinning Strike",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Crossguard",
+            "used": 4,
+            "usage": 20,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Tremor Crush",
+            "used": 4,
+            "usage": 20,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Recuperation",
+            "used": 4,
+            "usage": 20,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Parchment": {
+        "Most-used cards": [
+          {
+            "name": "Parchment of Vigor",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Parchment of Magic",
+            "used": 3,
+            "usage": 15
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Dark Crush",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Onslaught",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Spinning Strike",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Rushing Smash",
+            "used": 14,
+            "usage": 70,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Wave Blow",
+            "used": 4,
+            "usage": 20,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Heat Wave Blow",
+            "used": 3,
+            "usage": 15,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Compass": {
+        "Most-used cards": [
+          {
+            "name": "Compass of Vigor",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Compass of Magic",
+            "used": 7,
+            "usage": 35
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Incandescent Blow",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Recuperation",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Impactful Crush",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Defiance",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Tremor Crush",
+            "used": 9,
+            "usage": 45,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Gust Rampage",
+            "used": 8,
+            "usage": 40,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Bell": {
+        "Most-used cards": [
+          {
+            "name": "Bell of Magic",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Bell of Vigor",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Attack Preparation",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Survival Willpower",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Blessing of Life",
+            "used": 16,
+            "usage": 80,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Protection Circle",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Raging Spell",
+            "used": 11,
+            "usage": 55,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Mirror": {
+        "Most-used cards": [
+          {
+            "name": "Mirror of Vigor",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Mirror of Magic",
+            "used": 9,
+            "usage": 45
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Wind's Promise",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Impact Hit",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 16,
+            "usage": 80,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Crossguard",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.1"
+          }
+        ]
+      }
+    },
+    "arcanaSets": [
+      {
+        "name": "Primal Vigor",
+        "used": 20,
+        "usage": 100,
+        "detail": "4 total"
+      },
+      {
+        "name": "Magic Armor",
+        "used": 19,
+        "usage": 95,
+        "detail": "2 total"
+      }
+    ],
+    "skills": {
+      "Active skills": [
+        {
+          "name": "Dark Crush",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Onslaught",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Spinning Strike",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Incandescent Blow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.17"
+        },
+        {
+          "name": "Recuperation",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Impactful Crush",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Rushing Smash",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Defiance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.13"
+        },
+        {
+          "name": "Tremor Crush",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        },
+        {
+          "name": "Heat Wave Blow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.3"
+        },
+        {
+          "name": "Wave Blow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.3"
+        },
+        {
+          "name": "Gust Rampage",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.2"
+        }
+      ],
+      "Stigma": [
+        {
+          "name": "Power of the Storm",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Undefeated Mantra",
+          "used": 19,
+          "usage": 95,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Guardian Blessing",
+          "used": 17,
+          "usage": 85,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Marchutan's Wrath",
+          "used": 9,
+          "usage": 45,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Sprint Mantra",
+          "used": 8,
+          "usage": 40,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Focused Defense",
+          "used": 5,
+          "usage": 25,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Assault Shock",
+          "used": 2,
+          "usage": 10,
+          "detail": "Lv.20"
+        }
+      ],
+      "Passive": [
+        {
+          "name": "Attack Preparation",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Wind's Promise",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.24"
+        },
+        {
+          "name": "Impact Hit",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.23"
+        },
+        {
+          "name": "Inspiring Spell",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.17"
+        },
+        {
+          "name": "Blessing of Life",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Earth's Promise",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Protection Circle",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Survival Willpower",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Raging Spell",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14"
+        },
+        {
+          "name": "Crossguard",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.11"
+        }
+      ]
+    },
+    "traits": {
+      "Dark Crush": [
+        {
+          "number": 1,
+          "description": "Absorbs 0.7% HP",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Deals extra damage on attacking a target afflicted with Impact-type status",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Critical Hit on hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "Adds [Piercing Strike] Chain Skill",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "Removes [Dark Crush] cooldown",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        }
+      ],
+      "Onslaught": [
+        {
+          "number": 1,
+          "description": "+20% MP restored",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Absorbs 0.7% HP",
+          "used": 1,
+          "sample": 20,
+          "usage": 5.0
+        },
+        {
+          "number": 3,
+          "description": "+50% Multi-Hit on hit",
+          "used": 16,
+          "sample": 20,
+          "usage": 80.0
+        },
+        {
+          "number": 4,
+          "description": "-1s [Spinning Strike] cooldown on hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "Adds [Storm Chain] Chain Skill",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        }
+      ],
+      "Spinning Strike": [
+        {
+          "number": 1,
+          "description": "-5s cooldown",
+          "used": 19,
+          "sample": 20,
+          "usage": 95.0
+        },
+        {
+          "number": 2,
+          "description": "+10% Heal Boost (up to 20%)",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Up to +20% damage when less targets hit",
+          "used": 16,
+          "sample": 20,
+          "usage": 80.0
+        },
+        {
+          "number": 4,
+          "description": "40% chance to inflict Seal for 3s",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "Ignores Block and Evasion and lands as a Critical Hit",
+          "used": 19,
+          "sample": 20,
+          "usage": 95.0
+        }
+      ],
+      "Incandescent Blow": [
+        {
+          "number": 1,
+          "description": "-20% MP consumed",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+200 Block while using skill",
+          "used": 1,
+          "sample": 20,
+          "usage": 5.0
+        },
+        {
+          "number": 3,
+          "description": "Deals up to 12% more damage when less targets are hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "-200 enemy Accuracy for 3s on landing Bursting Blow",
+          "used": 4,
+          "sample": 20,
+          "usage": 20.0
+        },
+        {
+          "number": 5,
+          "description": "Ignores Block and Evasion and lands as Multi-Hit",
+          "used": 19,
+          "sample": 20,
+          "usage": 95.0
+        }
+      ],
+      "Recuperation": [
+        {
+          "number": 1,
+          "description": "+1 consecutive use and Heal over Time can stack up to 2 times",
+          "used": 17,
+          "sample": 20,
+          "usage": 85.0
+        },
+        {
+          "number": 2,
+          "description": "Removes up to 2 debuffs",
+          "used": 2,
+          "sample": 20,
+          "usage": 10.0
+        },
+        {
+          "number": 3,
+          "description": "+4s healing duration",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "+5% HP restored",
+          "used": 17,
+          "sample": 20,
+          "usage": 85.0
+        },
+        {
+          "number": 5,
+          "description": "-3s cooldown",
+          "used": 6,
+          "sample": 20,
+          "usage": 30.0
+        }
+      ],
+      "Impactful Crush": [
+        {
+          "number": 1,
+          "description": "Changes to AoE damage",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+1s [Impactful Crush] Stun duration",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "+30% Skill Speed",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "+20% [Impactful Crush] Stun Chance",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        }
+      ],
+      "Rushing Smash": [
+        {
+          "number": 1,
+          "description": "-20% target's Impact-type Resist for 5s",
+          "used": 6,
+          "sample": 20,
+          "usage": 30.0
+        },
+        {
+          "number": 2,
+          "description": "Changes to Charge Skill, dealing up to 200% more damage",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "50% chance to trigger [Heat Wave Blow] on hit",
+          "used": 4,
+          "sample": 20,
+          "usage": 20.0
+        },
+        {
+          "number": 4,
+          "description": "Resets cooldown on defeating an enemy",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "Ignores Block and Evasion and lands as Multi-Hit",
+          "used": 8,
+          "sample": 20,
+          "usage": 40.0
+        }
+      ],
+      "Defiance": [
+        {
+          "number": 1,
+          "description": "Adds [Crushing Strike] Chain Skill",
+          "used": 0,
+          "sample": 16,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Restores 1000 Stamina on using [Defiance]",
+          "used": 4,
+          "sample": 16,
+          "usage": 25.0
+        },
+        {
+          "number": 3,
+          "description": "Restores 10% HP on using [Defiance]",
+          "used": 16,
+          "sample": 16,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "+2s Tenacity duration",
+          "used": 6,
+          "sample": 16,
+          "usage": 37.5
+        },
+        {
+          "number": 5,
+          "description": "+50% PvE Damage Tolerance and +25% PvP Damage Tolerance for Tenacity duration",
+          "used": 0,
+          "sample": 16,
+          "usage": 0.0
+        }
+      ],
+      "Tremor Crush": [
+        {
+          "number": 1,
+          "description": "Restores 300 Stamina on hit",
+          "used": 7,
+          "sample": 20,
+          "usage": 35.0
+        },
+        {
+          "number": 2,
+          "description": "+10m [Tremor Crush] range",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "+50% Multi-Hit on hit",
+          "used": 6,
+          "sample": 20,
+          "usage": 30.0
+        },
+        {
+          "number": 4,
+          "description": "Adds [Surging Strike] Chain Skill",
+          "used": 3,
+          "sample": 20,
+          "usage": 15.0
+        },
+        {
+          "number": 5,
+          "description": "+25% [Tremor Crush] Stun Chance",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        }
+      ],
+      "Heat Wave Blow": [
+        {
+          "number": 1,
+          "description": "40% chance to inflict Stun for 3s",
+          "used": 1,
+          "sample": 3,
+          "usage": 33.3
+        },
+        {
+          "number": 2,
+          "description": "+20% Seal Chance",
+          "used": 0,
+          "sample": 3,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Up to +20% damage when more targets hit",
+          "used": 0,
+          "sample": 3,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "Ignores Block and Evasion and lands as Multi-Hit",
+          "used": 1,
+          "sample": 3,
+          "usage": 33.3
+        },
+        {
+          "number": 5,
+          "description": "25% chance to reset [Heat Wave Blow] cooldown on Block",
+          "used": 0,
+          "sample": 3,
+          "usage": 0.0
+        }
+      ],
+      "Wave Blow": [
+        {
+          "number": 1,
+          "description": "Multi-Hit on hit",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+6m Range",
+          "used": 2,
+          "sample": 20,
+          "usage": 10.0
+        },
+        {
+          "number": 3,
+          "description": "+1s Knockdown duration",
+          "used": 1,
+          "sample": 20,
+          "usage": 5.0
+        },
+        {
+          "number": 4,
+          "description": "-15% target's PvE Damage Boost and -7.5% PvP Damage Boost for 10s",
+          "used": 3,
+          "sample": 20,
+          "usage": 15.0
+        },
+        {
+          "number": 5,
+          "description": "-5s cooldown",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        }
+      ],
+      "Gust Rampage": [
+        {
+          "number": 1,
+          "description": "Absorbs 5% HP",
+          "used": 0,
+          "sample": 2,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Restores 120 MP",
+          "used": 0,
+          "sample": 2,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 0,
+          "sample": 2,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "Multi-Hit on hit",
+          "used": 1,
+          "sample": 2,
+          "usage": 50.0
+        },
+        {
+          "number": 5,
+          "description": "-1s all skill cooldowns on hit",
+          "used": 1,
+          "sample": 2,
+          "usage": 50.0
+        }
+      ]
+    }
+  },
+  "buildGuide": {
+    "className": "Chanter",
+    "service": "Korea / Taiwan",
+    "source": "https://notmeter.com/?view=setup-guide",
+    "updated": "2026-11-21T16:44:54.5839834+00:00",
+    "sampleSize": 20,
+    "soul": {
+      "Weapons": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Precision",
+            "used": 19,
+            "usage": 95
+          }
+        ]
+      },
+      "Guard": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Precision",
+            "used": 19,
+            "usage": 95
+          }
+        ]
+      },
+      "Helm": {
+        "Options": [
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Incoming Heal",
+            "used": 11,
+            "usage": 55
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Wind's Promise",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack Preparation",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Pauldrons": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Defense increase",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Constitution",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Wind's Promise",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack Preparation",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Top": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Defense increase",
+            "used": 3,
+            "usage": 15
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Wind's Promise",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack Preparation",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Legs": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Tolerance",
+            "used": 19,
+            "usage": 95
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Wind's Promise",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack Preparation",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Gloves": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Defense increase",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Attack Preparation",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Wind's Promise",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Shoes": {
+        "Options": [
+          {
+            "name": "Move Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Defense increase",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Attack Preparation",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Wind's Promise",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Necklace": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Accuracy",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Critical Hit",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Attack Preparation",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Wind's Promise",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 15,
+            "usage": 75
+          }
+        ]
+      },
+      "Earrings": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Accuracy",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Critical Hit",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Attack Preparation",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Wind's Promise",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 13,
+            "usage": 65
+          }
+        ]
+      },
+      "Ring": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Accuracy",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Critical Hit",
+            "used": 4,
+            "usage": 20
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Onslaught",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Dark Crush",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Recuperation",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Spinning Strike",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rushing Smash",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Gust Rampage",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Incandescent Blow",
+            "used": 11,
+            "usage": 55
+          }
+        ]
+      },
+      "Bracelet": {
+        "Options": [
+          {
+            "name": "Time [Siel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Justice [Nezekan]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Wisdom [Lumiel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Destruction [Zikel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Illusion [Kaisinel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Space [Israphel]",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Death [Triniel]",
+            "used": 4,
+            "usage": 20
+          }
+        ]
+      },
+      "Brooch": {
+        "Options": [
+          {
+            "name": "Accuracy",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Precision",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Hit",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Constitution",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Willpower",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Intelligence",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Cloak": {
+        "Options": [
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Critical Damage Tolerance",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Wind's Promise",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Attack Preparation",
+            "used": 17,
+            "usage": 85
+          }
+        ]
+      },
+      "Seal": {
+        "Options": [
+          {
+            "name": "Power Shard Damage Bonus",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "PvE Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Boss Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Max Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack Bonus",
+            "used": 20,
+            "usage": 100
+          }
+        ]
+      }
+    },
+    "stones": {
+      "Manastones · Damage Boost": [
+        {
+          "name": "Weapon Damage Boost",
+          "used": 18,
+          "usage": 90,
+          "detail": "39 total"
+        },
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 17,
+          "usage": 85,
+          "detail": "113 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 9,
+          "usage": 45,
+          "detail": "11 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 8,
+          "usage": 40,
+          "detail": "12 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 5,
+          "usage": 25,
+          "detail": "33 total"
+        }
+      ],
+      "Soulstones · Damage Boost": [
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 17,
+          "usage": 85,
+          "detail": "145 total"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "used": 17,
+          "usage": 85,
+          "detail": "57 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 9,
+          "usage": 45,
+          "detail": "10 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 8,
+          "usage": 40,
+          "detail": "33 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 3,
+          "usage": 15,
+          "detail": "5 total"
+        }
+      ]
+    },
+    "arcana": {
+      "Chalice": {
+        "Most-used cards": [
+          {
+            "name": "Chalice of Protection",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Wind's Promise",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Impact Hit",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Attack Preparation",
+            "used": 14,
+            "usage": 70,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Onslaught",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Spinning Strike",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Dark Crush",
+            "used": 5,
+            "usage": 25,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Parchment": {
+        "Most-used cards": [
+          {
+            "name": "Parchment of Protection",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Parchment of Punishment",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Onslaught",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Spinning Strike",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Dark Crush",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Rushing Smash",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Wave Blow",
+            "used": 3,
+            "usage": 15,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Heat Wave Blow",
+            "used": 2,
+            "usage": 10,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Compass": {
+        "Most-used cards": [
+          {
+            "name": "Compass of Punishment",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Compass of Protection",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Compass of Indomitability",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Recuperation",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Incandescent Blow",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Impactful Crush",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Gust Rampage",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Defiance",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Tremor Crush",
+            "used": 8,
+            "usage": 40,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Bell": {
+        "Most-used cards": [
+          {
+            "name": "Bell of Punishment",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Bell of Indomitability",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Attack Preparation",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Blessing of Life",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Protection Circle",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Survival Willpower",
+            "used": 14,
+            "usage": 70,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Raging Spell",
+            "used": 13,
+            "usage": 65,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Mirror": {
+        "Most-used cards": [
+          {
+            "name": "Mirror of Punishment",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Mirror of Protection",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Mirror of Indomitability",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Wind's Promise",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Inspiring Spell",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Earth's Promise",
+            "used": 16,
+            "usage": 80,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Crossguard",
+            "used": 4,
+            "usage": 20,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Scales": {
+        "Most-used cards": [
+          {
+            "name": "Scales of Punishment",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Scales of Indomitability",
+            "used": 6,
+            "usage": 30
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Wind's Promise",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Impact Hit",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Attack Preparation",
+            "used": 17,
+            "usage": 85,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Dark Crush",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Spinning Strike",
+            "used": 5,
+            "usage": 25,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Onslaught",
+            "used": 4,
+            "usage": 20,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Key": {
+        "Most-used cards": [
+          {
+            "name": "Key of Punishment",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Key of Protection",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Key of Indomitability",
+            "used": 5,
+            "usage": 25
+          }
+        ],
+        "Most-used attached skills": []
+      },
+      "Hourglass": {
+        "Most-used cards": [
+          {
+            "name": "Hourglass of Protection",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Hourglass of Punishment",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Hourglass of Indomitability",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": []
+      },
+      "Dice": {
+        "Most-used cards": [
+          {
+            "name": "Dice of Indomitability",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Dice of Protection",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Dice of Punishment",
+            "used": 5,
+            "usage": 25
+          }
+        ],
+        "Most-used attached skills": []
+      },
+      "Lantern": {
+        "Most-used cards": [
+          {
+            "name": "Lantern of Protection",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Lantern of Punishment",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Lantern of Indomitability",
+            "used": 4,
+            "usage": 20
+          }
+        ],
+        "Most-used attached skills": []
+      }
+    },
+    "arcanaSets": [
+      {
+        "name": "Protected Soul",
+        "used": 20,
+        "usage": 100,
+        "detail": "4 total"
+      },
+      {
+        "name": "Punishing Overture",
+        "used": 20,
+        "usage": 100,
+        "detail": "4 total"
+      },
+      {
+        "name": "Indomitable Dedication",
+        "used": 16,
+        "usage": 80,
+        "detail": "2 total"
+      }
+    ],
+    "skills": {
+      "Active skills": [
+        {
+          "name": "Onslaught",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Dark Crush",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Recuperation",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Spinning Strike",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Rushing Smash",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Incandescent Blow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Gust Rampage",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Defiance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Impactful Crush",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Wave Blow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14"
+        },
+        {
+          "name": "Heat Wave Blow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        },
+        {
+          "name": "Tremor Crush",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        }
+      ],
+      "Stigma": [
+        {
+          "name": "Undefeated Mantra",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Guardian Blessing",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Power of the Storm",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "폭풍의 주문",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Assault Shock",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Barrier Spell",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Ensnaring Mark",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Marchutan's Wrath",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Obliterate",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Fracturing Blow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Focused Defense",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Impeding Authority",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Healing Touch",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        }
+      ],
+      "Passive": [
+        {
+          "name": "Wind's Promise",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.36"
+        },
+        {
+          "name": "Impact Hit",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.31"
+        },
+        {
+          "name": "Attack Preparation",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.30"
+        },
+        {
+          "name": "Inspiring Spell",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.19"
+        },
+        {
+          "name": "Earth's Promise",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.18"
+        },
+        {
+          "name": "Blessing of Life",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Raging Spell",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Protection Circle",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Survival Willpower",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Crossguard",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.9"
+        }
+      ]
+    },
+    "traits": {
+      "Onslaught": [
+        {
+          "number": 1,
+          "description": "+20% MP restored",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Absorbs 0.7% HP",
+          "used": 7,
+          "sample": 19,
+          "usage": 36.8
+        },
+        {
+          "number": 3,
+          "description": "+50% Multi-Hit Chance",
+          "used": 12,
+          "sample": 19,
+          "usage": 63.2
+        },
+        {
+          "number": 4,
+          "description": "-1s [Spinning Strike] cooldown on hit",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "Adds [Storm Chain] Chain Skill",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        }
+      ],
+      "Dark Crush": [
+        {
+          "number": 1,
+          "description": "Absorbs 0.7% HP",
+          "used": 13,
+          "sample": 19,
+          "usage": 68.4
+        },
+        {
+          "number": 2,
+          "description": "Deals extra damage on attacking a target afflicted with Impact-type status",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "+200 skill Critical Hit",
+          "used": 3,
+          "sample": 19,
+          "usage": 15.8
+        },
+        {
+          "number": 4,
+          "description": "Adds [Piercing Strike] Chain Skill",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "Removes [Dark Crush] cooldown",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        }
+      ],
+      "Recuperation": [
+        {
+          "number": 1,
+          "description": "+1 consecutive use and Heal over Time can stack up to 2 times",
+          "used": 16,
+          "sample": 16,
+          "usage": 100.0
+        },
+        {
+          "number": 2,
+          "description": "Removes up to 2 debuffs",
+          "used": 6,
+          "sample": 16,
+          "usage": 37.5
+        },
+        {
+          "number": 3,
+          "description": "+4s healing duration",
+          "used": 0,
+          "sample": 16,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "+5% HP restored",
+          "used": 16,
+          "sample": 16,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "-3s cooldown",
+          "used": 10,
+          "sample": 16,
+          "usage": 62.5
+        }
+      ],
+      "Spinning Strike": [
+        {
+          "number": 1,
+          "description": "-5s cooldown",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 2,
+          "description": "+10% Heal Boost (up to 20%)",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Up to +20% damage when less targets hit",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "40% chance to inflict Seal for 3s",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "Lands as a Critical Hit",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        }
+      ],
+      "Rushing Smash": [
+        {
+          "number": 1,
+          "description": "-20% target's Impact-type Resist for 5s",
+          "used": 2,
+          "sample": 19,
+          "usage": 10.5
+        },
+        {
+          "number": 2,
+          "description": "Changes to Charge Skill, dealing up to 200% more damage",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "50% chance to trigger [Heat Wave Blow] on hit",
+          "used": 1,
+          "sample": 19,
+          "usage": 5.3
+        },
+        {
+          "number": 4,
+          "description": "Resets cooldown on defeating an enemy",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "Ignores Block and Evasion and lands as Multi-Hit",
+          "used": 15,
+          "sample": 19,
+          "usage": 78.9
+        }
+      ],
+      "Incandescent Blow": [
+        {
+          "number": 1,
+          "description": "-20% MP consumed",
+          "used": 1,
+          "sample": 19,
+          "usage": 5.3
+        },
+        {
+          "number": 2,
+          "description": "+200 Accuracy while using skill",
+          "used": 1,
+          "sample": 19,
+          "usage": 5.3
+        },
+        {
+          "number": 3,
+          "description": "Deals up to 12% more damage when less targets are hit",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "-200 enemy Accuracy for 3s on landing Bursting Blow",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "Lands as a Multi-Hit",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        }
+      ],
+      "Gust Rampage": [
+        {
+          "number": 1,
+          "description": "Absorbs 5% HP",
+          "used": 0,
+          "sample": 12,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Restores 120 MP",
+          "used": 0,
+          "sample": 12,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 3,
+          "sample": 12,
+          "usage": 25.0
+        },
+        {
+          "number": 4,
+          "description": "Lands as a Multi-Hit",
+          "used": 9,
+          "sample": 12,
+          "usage": 75.0
+        },
+        {
+          "number": 5,
+          "description": "-0.5s Mastery skill cooldowns on hit",
+          "used": 12,
+          "sample": 12,
+          "usage": 100.0
+        }
+      ],
+      "Defiance": [
+        {
+          "number": 1,
+          "description": "Adds [Crushing Strike] Chain Skill",
+          "used": 0,
+          "sample": 14,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Restores 1000 Stamina on using [Defiance]",
+          "used": 1,
+          "sample": 14,
+          "usage": 7.1
+        },
+        {
+          "number": 3,
+          "description": "Restores 10% HP on using [Defiance]",
+          "used": 12,
+          "sample": 14,
+          "usage": 85.7
+        },
+        {
+          "number": 4,
+          "description": "+2s Tenacity duration",
+          "used": 10,
+          "sample": 14,
+          "usage": 71.4
+        },
+        {
+          "number": 5,
+          "description": "+50% PvE Damage Tolerance and +25% PvP Damage Tolerance for Tenacity duration",
+          "used": 1,
+          "sample": 14,
+          "usage": 7.1
+        }
+      ],
+      "Impactful Crush": [
+        {
+          "number": 1,
+          "description": "Changes to AoE damage",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+1s [Impactful Crush] Stun duration",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "+30% Skill Speed",
+          "used": 19,
+          "sample": 19,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "+20% [Impactful Crush] Stun Chance",
+          "used": 0,
+          "sample": 19,
+          "usage": 0.0
+        }
+      ],
+      "Wave Blow": [
+        {
+          "number": 1,
+          "description": "Lands as a Multi-Hit",
+          "used": 1,
+          "sample": 1,
+          "usage": 100.0
+        },
+        {
+          "number": 2,
+          "description": "+6m Range",
+          "used": 0,
+          "sample": 1,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "+1s Knockdown duration",
+          "used": 0,
+          "sample": 1,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "-15% target's PvE Damage Boost and -7.5% PvP Damage Boost for 10s",
+          "used": 1,
+          "sample": 1,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "-5s cooldown",
+          "used": 0,
+          "sample": 1,
+          "usage": 0.0
+        }
+      ],
+      "Tremor Crush": [
+        {
+          "number": 1,
+          "description": "Restores 300 Stamina on hit",
+          "used": 9,
+          "sample": 13,
+          "usage": 69.2
+        },
+        {
+          "number": 2,
+          "description": "+10m [Tremor Crush] range",
+          "used": 13,
+          "sample": 13,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "+50% Multi-Hit Chance",
+          "used": 3,
+          "sample": 13,
+          "usage": 23.1
+        },
+        {
+          "number": 4,
+          "description": "Adds [Surging Strike] Chain Skill",
+          "used": 0,
+          "sample": 13,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "+25% [Tremor Crush] Stun Chance",
+          "used": 0,
+          "sample": 13,
+          "usage": 0.0
+        }
+      ]
+    }
+  },
+  "ideals": {
+    "className": "Chanter",
+    "source": "https://kisk.app/scoring",
+    "method": "https://kisk.app/scoring",
+    "sampleSize": 656,
+    "sampleDate": "2026-10-19",
+    "slots": {
+      "MainHand": [
+        {
+          "effect": "Weapon Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Damage Boost",
+          "usage": 99.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 97.0
+        },
+        {
+          "effect": "Multi-hit Chance",
+          "usage": 93.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 82.0
+        },
+        {
+          "effect": "Status Effect Accuracy",
+          "usage": 8.0
+        }
+      ],
+      "SubHand": [
+        {
+          "effect": "Weapon Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 97.0
+        },
+        {
+          "effect": "Multi-hit Chance",
+          "usage": 97.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 87.0
+        },
+        {
+          "effect": "Status Effect Accuracy",
+          "usage": 8.0
+        }
+      ],
+      "Torso": [
+        {
+          "effect": "Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 96.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 95.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 32.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 27.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 19.0
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 10.0
+        },
+        {
+          "effect": "Endurance",
+          "usage": 9.0
+        },
+        {
+          "effect": "Status Effect Resist",
+          "usage": 7.0
+        },
+        {
+          "effect": "Regeneration",
+          "usage": 5.0
+        }
+      ],
+      "Pants": [
+        {
+          "effect": "Attack increase",
+          "usage": 99.0
+        },
+        {
+          "effect": "Damage Tolerance",
+          "usage": 96.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 94.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 85.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 6.0
+        },
+        {
+          "effect": "Endurance",
+          "usage": 5.0
+        },
+        {
+          "effect": "Status Effect Resist",
+          "usage": 4.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 3.0
+        }
+      ],
+      "Helmet": [
+        {
+          "effect": "Double Chance",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack increase",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 88.0
+        },
+        {
+          "effect": "Incoming Heal",
+          "usage": 53.0
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 10.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 8.0
+        },
+        {
+          "effect": "Endurance",
+          "usage": 6.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 5.0
+        },
+        {
+          "effect": "Status Effect Resist",
+          "usage": 1.0
+        }
+      ],
+      "Shoulder": [
+        {
+          "effect": "Critical Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Double Chance",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 94.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 28.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 24.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 18.0
+        },
+        {
+          "effect": "Endurance",
+          "usage": 6.0
+        },
+        {
+          "effect": "Regeneration",
+          "usage": 3.0
+        },
+        {
+          "effect": "Status Effect Resist",
+          "usage": 2.0
+        }
+      ],
+      "Gloves": [
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 95.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 92.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 19.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 13.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 8.0
+        },
+        {
+          "effect": "Regeneration",
+          "usage": 2.0
+        },
+        {
+          "effect": "Endurance Penetration",
+          "usage": 1.0
+        }
+      ],
+      "Boots": [
+        {
+          "effect": "Move Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 96.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 92.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 21.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 12.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 9.0
+        },
+        {
+          "effect": "Regeneration",
+          "usage": 2.0
+        },
+        {
+          "effect": "Constitution",
+          "usage": 1.0
+        }
+      ],
+      "Cape": [
+        {
+          "effect": "Attack increase",
+          "usage": 100.0
+        },
+        {
+          "effect": "Double Chance",
+          "usage": 100.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 95.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 76.0
+        },
+        {
+          "effect": "Critical Damage Tolerance",
+          "usage": 19.0
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 10.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 4.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 2.0
+        }
+      ],
+      "Necklace": [
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 100.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 97.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 76.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 60.0
+        }
+      ],
+      "Earring": [
+        {
+          "effect": "Move Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 100.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 97.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 85.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 66.0
+        }
+      ],
+      "Ring": [
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 97.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 97.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 38.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 37.0
+        }
+      ],
+      "Bracelet": [
+        {
+          "effect": "Time [Siel]",
+          "usage": 100.0
+        },
+        {
+          "effect": "Destruction [Zikel]",
+          "usage": 100.0
+        },
+        {
+          "effect": "Wisdom [Lumiel]",
+          "usage": 100.0
+        },
+        {
+          "effect": "Illusion [Kaisinel]",
+          "usage": 99.0
+        },
+        {
+          "effect": "Justice [Nezekan]",
+          "usage": 85.0
+        },
+        {
+          "effect": "Death [Triniel]",
+          "usage": 57.0
+        },
+        {
+          "effect": "Freedom [Vaizel]",
+          "usage": 48.0
+        },
+        {
+          "effect": "Space [Israphel]",
+          "usage": 23.0
+        }
+      ]
+    }
+  }
+}

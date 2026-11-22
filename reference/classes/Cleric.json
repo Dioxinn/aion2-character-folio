@@ -1,0 +1,4334 @@
+{
+  "globalGuide": {
+    "className": "Cleric",
+    "service": "Global",
+    "source": "https://notmeter.com/?view=setup-guide",
+    "updated": "2026-11-21T13:27:00-05:00",
+    "sampleSize": 20,
+    "soul": {
+      "Weapons": {
+        "Skills": [
+          {
+            "name": "Bolt",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Attack",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Precision",
+            "used": 7,
+            "usage": 35
+          }
+        ]
+      },
+      "Guard": {
+        "Skills": [
+          {
+            "name": "Bolt",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Condemnation",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Divine Aura",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Judgment Thunder",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Options": [
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Might",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Damage Boost",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Attack",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Precision",
+            "used": 7,
+            "usage": 35
+          }
+        ]
+      },
+      "Helm": {
+        "Skills": [
+          {
+            "name": "Earth's Grace",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Warm Benediction",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Options": [
+          {
+            "name": "Attack increase",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Attack",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Double Chance",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Incoming Heal",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Accuracy",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Critical Hit",
+            "used": 3,
+            "usage": 15
+          }
+        ]
+      },
+      "Pauldrons": {
+        "Skills": [
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Earth's Grace",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Options": [
+          {
+            "name": "Critical Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Double Chance",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Critical Hit",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Accuracy",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Dexterity",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Top": {
+        "Skills": [
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Earth's Grace",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Radiant Benediction",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Warm Benediction",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Options": [
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Critical Hit",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Accuracy",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Front Defense",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Legs": {
+        "Skills": [
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Earth's Grace",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Empyrean Lords' Benediction",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Options": [
+          {
+            "name": "Damage Tolerance",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Attack increase",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Attack",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Critical Hit",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Accuracy",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Gloves": {
+        "Skills": [
+          {
+            "name": "Earth's Grace",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Options": [
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Accuracy",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Critical Hit",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Defense increase",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Critical Damage Defense",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Shoes": {
+        "Skills": [
+          {
+            "name": "Earth's Grace",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Options": [
+          {
+            "name": "Move Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Critical Hit",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Accuracy",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Status Effect Resist",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Constitution",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Cloak": {
+        "Skills": [
+          {
+            "name": "Earth's Grace",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Heal Block",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Double Chance",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Attack increase",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Critical Hit",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Endurance",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Defense",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Accuracy",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Necklace": {
+        "Skills": [
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Earth's Grace",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 4,
+            "usage": 20
+          }
+        ],
+        "Options": [
+          {
+            "name": "Combat Speed",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Attack",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Might",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Precision",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Critical Hit",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Accuracy",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Flight Power",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Earrings": {
+        "Skills": [
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Earth's Grace",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Warm Benediction",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Empyrean Lords' Benediction",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Radiant Benediction",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Move Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Might",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Critical Hit",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Precision",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Accuracy",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Block",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Ring": {
+        "Skills": [
+          {
+            "name": "Condemnation",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Bolt",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Judgment Thunder",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Radiant Recovery",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Divine Aura",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Light of Regeneration",
+            "used": 8,
+            "usage": 40
+          },
+          {
+            "name": "Earth's Retribution",
+            "used": 7,
+            "usage": 35
+          }
+        ],
+        "Options": [
+          {
+            "name": "Might",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Attack",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Precision",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Critical Hit",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Accuracy",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Block",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Critical Hit Resist",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Bracelet": {
+        "Options": [
+          {
+            "name": "MP",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Critical Hit",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Natural MP Regen",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Evasion",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Illusion [Kaisinel]",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Destruction [Zikel]",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Wisdom [Lumiel]",
+            "used": 12,
+            "usage": 60
+          }
+        ]
+      }
+    },
+    "stones": {
+      "Manastones · Damage Boost": [
+        {
+          "name": "Damage Boost",
+          "used": 12,
+          "usage": 60,
+          "detail": "15 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 10,
+          "usage": 50,
+          "detail": "15 total"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "used": 8,
+          "usage": 40,
+          "detail": "8 total"
+        },
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 6,
+          "usage": 30,
+          "detail": "10 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 6,
+          "usage": 30,
+          "detail": "8 total"
+        }
+      ],
+      "Soulstones · Damage Boost": [
+        {
+          "name": "Weapon Damage Boost",
+          "used": 8,
+          "usage": 40,
+          "detail": "11 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 8,
+          "usage": 40,
+          "detail": "13 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 4,
+          "usage": 20,
+          "detail": "6 total"
+        },
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 4,
+          "usage": 20,
+          "detail": "6 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 2,
+          "usage": 10,
+          "detail": "2 total"
+        }
+      ]
+    },
+    "arcana": {
+      "Chalice": {
+        "Most-used cards": [
+          {
+            "name": "Chalice of Vigor",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Chalice of Magic",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Condemnation",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Bolt",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Earth's Retribution",
+            "used": 7,
+            "usage": 35,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Radiant Recovery",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Divine Aura",
+            "used": 4,
+            "usage": 20,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 4,
+            "usage": 20,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Parchment": {
+        "Most-used cards": [
+          {
+            "name": "Parchment of Vigor",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Parchment of Magic",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Condemnation",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Bolt",
+            "used": 17,
+            "usage": 85,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Radiant Recovery",
+            "used": 16,
+            "usage": 80,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Earth's Retribution",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Chain of Torment",
+            "used": 7,
+            "usage": 35,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Debilitating Mark",
+            "used": 5,
+            "usage": 25,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Compass": {
+        "Most-used cards": [
+          {
+            "name": "Compass of Vigor",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Compass of Magic",
+            "used": 7,
+            "usage": 35
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Divine Aura",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Judgment Thunder",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Light of Regeneration",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Defiance",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Healing Light",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Lightning Strike Scattershot",
+            "used": 7,
+            "usage": 35,
+            "detail": "Lv.3"
+          }
+        ]
+      },
+      "Bell": {
+        "Most-used cards": [
+          {
+            "name": "Bell of Magic",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Survival Willpower",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Warm Benediction",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Prayer of Concentration",
+            "used": 9,
+            "usage": 45,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Mirror": {
+        "Most-used cards": [
+          {
+            "name": "Mirror of Vigor",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Mirror of Magic",
+            "used": 4,
+            "usage": 20
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Earth's Grace",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Radiant Benediction",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Heal Block",
+            "used": 13,
+            "usage": 65,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Empyrean Lords' Benediction",
+            "used": 9,
+            "usage": 45,
+            "detail": "Lv.2"
+          }
+        ]
+      }
+    },
+    "arcanaSets": [
+      {
+        "name": "Primal Vigor",
+        "used": 20,
+        "usage": 100,
+        "detail": "3 total"
+      },
+      {
+        "name": "Magic Armor",
+        "used": 20,
+        "usage": 100,
+        "detail": "2 total"
+      }
+    ],
+    "skills": {
+      "Active skills": [
+        {
+          "name": "Condemnation",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20–22"
+        },
+        {
+          "name": "Bolt",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.18–20"
+        },
+        {
+          "name": "Divine Aura",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16–20"
+        },
+        {
+          "name": "Judgment Thunder",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16–19"
+        },
+        {
+          "name": "Radiant Recovery",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16–18"
+        },
+        {
+          "name": "Earth's Retribution",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15–17"
+        },
+        {
+          "name": "Light of Regeneration",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16–17"
+        },
+        {
+          "name": "Healing Light",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14–16"
+        },
+        {
+          "name": "Chain of Torment",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14–16"
+        },
+        {
+          "name": "Debilitating Mark",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12–14"
+        },
+        {
+          "name": "Defiance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.4–14"
+        },
+        {
+          "name": "Lightning Strike Scattershot",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.1–12"
+        }
+      ],
+      "Stigma": [
+        {
+          "name": "Earth Punishment",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Noble Aura",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Prayer of Amplification",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Light of Protection",
+          "used": 16,
+          "usage": 80,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Yustiel's Power",
+          "used": 3,
+          "usage": 15,
+          "detail": "Lv.15–20"
+        },
+        {
+          "name": "Summon Resurrection",
+          "used": 2,
+          "usage": 10,
+          "detail": "Lv.6–15"
+        },
+        {
+          "name": "Salvation",
+          "used": 1,
+          "usage": 5,
+          "detail": "Lv.1"
+        }
+      ],
+      "Passive": [
+        {
+          "name": "Empyrean Lord's Grace",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.23–26"
+        },
+        {
+          "name": "Earth's Grace",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.22–25"
+        },
+        {
+          "name": "Healing Enhancement",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15–18"
+        },
+        {
+          "name": "Warm Benediction",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Immortal Veil",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14–16"
+        },
+        {
+          "name": "Radiant Benediction",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14–16"
+        },
+        {
+          "name": "Survival Willpower",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12–15"
+        },
+        {
+          "name": "Prayer of Concentration",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.6–12"
+        },
+        {
+          "name": "Empyrean Lords' Benediction",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.5–12"
+        },
+        {
+          "name": "Heal Block",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.3–5"
+        }
+      ]
+    },
+    "traits": {
+      "Condemnation": [
+        {
+          "number": 1,
+          "description": "Recover 100 MP per hit",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Up to 12% more damage against fewer targets",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 3,
+          "description": "Root for 3 s on a 20% proc",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 4,
+          "description": "Critical hits with Condemnation reset its cooldown",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 5,
+          "description": "Guaranteed multi-hit",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        }
+      ],
+      "Bolt": [
+        {
+          "number": 1,
+          "description": "Full charge can stun for 3 s (30%)",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Skill accuracy +300",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 3,
+          "description": "Skill speed +30%",
+          "used": 19,
+          "sample": 20,
+          "usage": 95
+        },
+        {
+          "number": 4,
+          "description": "Up to 20% more damage against fewer targets",
+          "used": 14,
+          "sample": 20,
+          "usage": 70
+        },
+        {
+          "number": 5,
+          "description": "Guaranteed critical hit",
+          "used": 18,
+          "sample": 20,
+          "usage": 90
+        }
+      ],
+      "Divine Aura": [
+        {
+          "number": 1,
+          "description": "Aura slows up to four enemies within 4 m by 40% for 3 s",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Area-of-effect attack",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 3,
+          "description": "Aura attacks 50% faster",
+          "used": 19,
+          "sample": 20,
+          "usage": 95
+        },
+        {
+          "number": 4,
+          "description": "Aura lasts 3 s longer",
+          "used": 14,
+          "sample": 20,
+          "usage": 70
+        },
+        {
+          "number": 5,
+          "description": "Cooldown 10 s shorter",
+          "used": 13,
+          "sample": 20,
+          "usage": 65
+        }
+      ],
+      "Judgment Thunder": [
+        {
+          "number": 1,
+          "description": "MP cost reduced by 20%",
+          "used": 5,
+          "sample": 17,
+          "usage": 29
+        },
+        {
+          "number": 2,
+          "description": "Up to 12% more damage against fewer targets",
+          "used": 15,
+          "sample": 17,
+          "usage": 88
+        },
+        {
+          "number": 3,
+          "description": "Divine Punishment slows combat speed by 10% for 5 s",
+          "used": 1,
+          "sample": 17,
+          "usage": 6
+        },
+        {
+          "number": 4,
+          "description": "Divine Punishment can root for 2 s (10%)",
+          "used": 0,
+          "sample": 17,
+          "usage": 0
+        },
+        {
+          "number": 5,
+          "description": "One extra Divine Punishment activation",
+          "used": 16,
+          "sample": 17,
+          "usage": 94
+        }
+      ],
+      "Radiant Recovery": [
+        {
+          "number": 1,
+          "description": "Cleanse up to two debuffs",
+          "used": 2,
+          "sample": 20,
+          "usage": 10
+        },
+        {
+          "number": 2,
+          "description": "One additional consecutive cast",
+          "used": 18,
+          "sample": 20,
+          "usage": 90
+        },
+        {
+          "number": 3,
+          "description": "Cooldown 3 s shorter",
+          "used": 8,
+          "sample": 20,
+          "usage": 40
+        },
+        {
+          "number": 4,
+          "description": "Incoming healing +10% for 10 s",
+          "used": 1,
+          "sample": 20,
+          "usage": 5
+        },
+        {
+          "number": 5,
+          "description": "HP recovery +5%",
+          "used": 16,
+          "sample": 20,
+          "usage": 80
+        }
+      ],
+      "Earth's Retribution": [
+        {
+          "number": 1,
+          "description": "MP recovery +20%",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Discharge proc chance +20%",
+          "used": 19,
+          "sample": 20,
+          "usage": 95
+        },
+        {
+          "number": 3,
+          "description": "Multi-hit on impact +50%",
+          "used": 4,
+          "sample": 20,
+          "usage": 20
+        },
+        {
+          "number": 4,
+          "description": "Discharge hits shorten Bolt’s cooldown by 7 s",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 5,
+          "description": "Bypass block and evasion",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        }
+      ],
+      "Light of Regeneration": [
+        {
+          "number": 1,
+          "description": "Defense +5% during the heal",
+          "used": 7,
+          "sample": 20,
+          "usage": 35
+        },
+        {
+          "number": 2,
+          "description": "Healing +20% at half HP or below",
+          "used": 3,
+          "sample": 20,
+          "usage": 15
+        },
+        {
+          "number": 3,
+          "description": "Incoming healing +5% during the heal",
+          "used": 4,
+          "sample": 20,
+          "usage": 20
+        },
+        {
+          "number": 4,
+          "description": "Movement speed +5% during the heal",
+          "used": 13,
+          "sample": 20,
+          "usage": 65
+        },
+        {
+          "number": 5,
+          "description": "During healing, damage tolerance +5% PvE and +2.5% PvP",
+          "used": 14,
+          "sample": 20,
+          "usage": 70
+        }
+      ],
+      "Healing Light": [
+        {
+          "number": 1,
+          "description": "Two additional consecutive casts",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 2,
+          "description": "Healing +20% at half HP or below",
+          "used": 2,
+          "sample": 20,
+          "usage": 10
+        },
+        {
+          "number": 3,
+          "description": "50% chance to cleanse one debuff",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 4,
+          "description": "HP recovery +2%",
+          "used": 16,
+          "sample": 20,
+          "usage": 80
+        },
+        {
+          "number": 5,
+          "description": "Cooldown 2 s shorter",
+          "used": 2,
+          "sample": 20,
+          "usage": 10
+        }
+      ],
+      "Chain of Torment": [
+        {
+          "number": 1,
+          "description": "Slow the target for 5 s",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Damage over time lasts 3 s longer",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 3,
+          "description": "20% chance of a 3 s knockdown",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 4,
+          "description": "Target loses 10% PvE and 5% PvP damage tolerance",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 5,
+          "description": "Bypass block and evasion. Damage ticks twice as often.",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        }
+      ],
+      "Debilitating Mark": [
+        {
+          "number": 1,
+          "description": "No MP cost and 150 MP recovered",
+          "used": 2,
+          "sample": 20,
+          "usage": 10
+        },
+        {
+          "number": 2,
+          "description": "Target defense −15% while damage ticks",
+          "used": 19,
+          "sample": 20,
+          "usage": 95
+        },
+        {
+          "number": 3,
+          "description": "20% chance of a 3 s stun",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 4,
+          "description": "Target loses 10% PvE and 5% PvP damage boost",
+          "used": 17,
+          "sample": 20,
+          "usage": 85
+        },
+        {
+          "number": 5,
+          "description": "Bypass block and evasion. Damage ticks twice as often.",
+          "used": 2,
+          "sample": 20,
+          "usage": 10
+        }
+      ],
+      "Defiance": [
+        {
+          "number": 1,
+          "description": "Unlock Blessing of Regeneration as a chain",
+          "used": 2,
+          "sample": 9,
+          "usage": 22
+        },
+        {
+          "number": 2,
+          "description": "Recover 1,000 stamina on use",
+          "used": 1,
+          "sample": 9,
+          "usage": 11
+        },
+        {
+          "number": 3,
+          "description": "Recover 10% HP on use",
+          "used": 9,
+          "sample": 9,
+          "usage": 100
+        },
+        {
+          "number": 4,
+          "description": "Tenacity lasts 2 s longer",
+          "used": 4,
+          "sample": 9,
+          "usage": 44
+        },
+        {
+          "number": 5,
+          "description": "During Tenacity, damage tolerance +50% PvE and +25% PvP",
+          "used": 2,
+          "sample": 9,
+          "usage": 22
+        }
+      ],
+      "Lightning Strike Scattershot": [
+        {
+          "number": 1,
+          "description": "5% HP absorption",
+          "used": 0,
+          "sample": 4,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Recover 120 MP",
+          "used": 2,
+          "sample": 4,
+          "usage": 50
+        },
+        {
+          "number": 3,
+          "description": "Cast while moving",
+          "used": 1,
+          "sample": 4,
+          "usage": 25
+        },
+        {
+          "number": 4,
+          "description": "Guaranteed multi-hit",
+          "used": 2,
+          "sample": 4,
+          "usage": 50
+        },
+        {
+          "number": 5,
+          "description": "Hits shorten all skill cooldowns by 1 s",
+          "used": 4,
+          "sample": 4,
+          "usage": 100
+        }
+      ]
+    }
+  },
+  "buildGuide": {
+    "className": "Cleric",
+    "service": "Korea · Taiwan",
+    "source": "https://notmeter.com/?view=setup-guide",
+    "updated": "2026-11-21T11:44:00-05:00",
+    "sampleSize": 20,
+    "soul": {
+      "Weapons": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Precision",
+            "used": 16,
+            "usage": 80
+          }
+        ]
+      },
+      "Guard": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Precision",
+            "used": 16,
+            "usage": 80
+          }
+        ]
+      },
+      "Helm": {
+        "Skills": [
+          {
+            "name": "Earth's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Warm Benediction",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Incoming Heal",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Critical Hit",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Accuracy",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Defense",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Pauldrons": {
+        "Skills": [
+          {
+            "name": "Earth's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Warm Benediction",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Hit",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Defense increase",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Accuracy",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Regeneration",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Top": {
+        "Skills": [
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Earth's Grace",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 3,
+            "usage": 15
+          }
+        ],
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Defense increase",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Accuracy",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Critical Hit",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Defense",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Legs": {
+        "Skills": [
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Earth's Grace",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Warm Benediction",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Tolerance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Hit",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Defense increase",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Accuracy",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Gloves": {
+        "Skills": [
+          {
+            "name": "Earth's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Warm Benediction",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Defense increase",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Critical Hit",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Accuracy",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Regeneration",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Shoes": {
+        "Skills": [
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Earth's Grace",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Warm Benediction",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 4,
+            "usage": 20
+          }
+        ],
+        "Options": [
+          {
+            "name": "Move Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Defense increase",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Critical Hit",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Accuracy",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Regeneration",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Cloak": {
+        "Skills": [
+          {
+            "name": "Earth's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Hit",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Weapon Damage Tolerance",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Accuracy",
+            "used": 3,
+            "usage": 15
+          }
+        ]
+      },
+      "Necklace": {
+        "Skills": [
+          {
+            "name": "Earth's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Warm Benediction",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Radiant Benediction",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Accuracy",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Critical Hit",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Attack increase",
+            "used": 19,
+            "usage": 95
+          }
+        ]
+      },
+      "Earrings": {
+        "Skills": [
+          {
+            "name": "Earth's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 9,
+            "usage": 45
+          },
+          {
+            "name": "Warm Benediction",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Empyrean Lords' Benediction",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Options": [
+          {
+            "name": "Accuracy",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Hit",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 19,
+            "usage": 95
+          }
+        ]
+      },
+      "Ring": {
+        "Skills": [
+          {
+            "name": "Condemnation",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Earth's Retribution",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Bolt",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Divine Aura",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Radiant Recovery",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Healing Light",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Lightning Strike Scattershot",
+            "used": 10,
+            "usage": 50
+          }
+        ],
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          }
+        ]
+      },
+      "Bracelet": {
+        "Options": [
+          {
+            "name": "Time [Siel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Justice [Nezekan]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Wisdom [Lumiel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Destruction [Zikel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Illusion [Kaisinel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Space [Israphel]",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Death [Triniel]",
+            "used": 9,
+            "usage": 45
+          }
+        ]
+      },
+      "Brooch": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Precision",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Constitution",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Accuracy",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Critical Hit",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Willpower",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Block Penetration",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Seal": {
+        "Options": [
+          {
+            "name": "Power Shard Damage Bonus",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Boss Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Max Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack Bonus",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "PvE Attack",
+            "used": 19,
+            "usage": 95
+          }
+        ]
+      }
+    },
+    "stones": {
+      "Manastones · Damage Boost": [
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 19,
+          "usage": 95,
+          "detail": "158 total"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "used": 11,
+          "usage": 55,
+          "detail": "23 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 9,
+          "usage": 45,
+          "detail": "14 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 7,
+          "usage": 35,
+          "detail": "12 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 3,
+          "usage": 15,
+          "detail": "3 total"
+        }
+      ],
+      "Soulstones · Damage Boost": [
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 19,
+          "usage": 95,
+          "detail": "188 total"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "used": 12,
+          "usage": 60,
+          "detail": "29 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 9,
+          "usage": 45,
+          "detail": "13 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 9,
+          "usage": 45,
+          "detail": "10 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 7,
+          "usage": 35,
+          "detail": "12 total"
+        }
+      ]
+    },
+    "arcana": {
+      "Chalice": {
+        "Most-used cards": [
+          {
+            "name": "Chalice of Protection",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Earth's Grace",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Bolt",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Condemnation",
+            "used": 11,
+            "usage": 55,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Earth's Retribution",
+            "used": 7,
+            "usage": 35,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Radiant Recovery",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Parchment": {
+        "Most-used cards": [
+          {
+            "name": "Parchment of Protection",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Parchment of Punishment",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Parchment of Vigor",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Earth's Retribution",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Condemnation",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Bolt",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Radiant Recovery",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Chain of Torment",
+            "used": 2,
+            "usage": 10,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Compass": {
+        "Most-used cards": [
+          {
+            "name": "Compass of Punishment",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Compass of Protection",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Compass of Vigor",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Divine Aura",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Judgment Thunder",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Light of Regeneration",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Lightning Strike Scattershot",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Healing Light",
+            "used": 11,
+            "usage": 55,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Bell": {
+        "Most-used cards": [
+          {
+            "name": "Bell of Punishment",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Warm Benediction",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Immortal Veil",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Prayer of Concentration",
+            "used": 13,
+            "usage": 65,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Survival Willpower",
+            "used": 7,
+            "usage": 35,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Mirror": {
+        "Most-used cards": [
+          {
+            "name": "Mirror of Punishment",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Mirror of Protection",
+            "used": 6,
+            "usage": 30
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Earth's Grace",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Healing Enhancement",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Radiant Benediction",
+            "used": 17,
+            "usage": 85,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Empyrean Lords' Benediction",
+            "used": 17,
+            "usage": 85,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Heal Block",
+            "used": 7,
+            "usage": 35,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Scales": {
+        "Most-used cards": [
+          {
+            "name": "Scales of Punishment",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Scales of Indomitability",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Empyrean Lord's Grace",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Earth's Grace",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Condemnation",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Bolt",
+            "used": 11,
+            "usage": 55,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Earth's Retribution",
+            "used": 9,
+            "usage": 45,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Radiant Recovery",
+            "used": 4,
+            "usage": 20,
+            "detail": "Lv.2"
+          }
+        ]
+      },
+      "Key": {
+        "Most-used cards": [
+          {
+            "name": "Key of Protection",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Key of Punishment",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Key of Indomitability",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Hourglass": {
+        "Most-used cards": [
+          {
+            "name": "Hourglass of Protection",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Hourglass of Punishment",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Hourglass of Indomitability",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Dice": {
+        "Most-used cards": [
+          {
+            "name": "Dice of Indomitability",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Dice of Protection",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Dice of Punishment",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Lantern": {
+        "Most-used cards": [
+          {
+            "name": "Lantern of Indomitability",
+            "used": 15,
+            "usage": 75
+          },
+          {
+            "name": "Lantern of Protection",
+            "used": 3,
+            "usage": 15
+          },
+          {
+            "name": "Lantern of Punishment",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      }
+    },
+    "arcanaSets": [
+      {
+        "name": "Protected Soul",
+        "used": 20,
+        "usage": 100,
+        "detail": "4 total"
+      },
+      {
+        "name": "Punishing Overture",
+        "used": 20,
+        "usage": 100,
+        "detail": "4 total"
+      },
+      {
+        "name": "Indomitable Dedication",
+        "used": 18,
+        "usage": 90,
+        "detail": "2 total"
+      },
+      {
+        "name": "Primal Vigor",
+        "used": 1,
+        "usage": 5,
+        "detail": "2 total"
+      }
+    ],
+    "skills": {
+      "Active skills": [
+        {
+          "name": "Condemnation",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Earth's Retribution",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Bolt",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Divine Aura",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Lightning Strike Scattershot",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.13–16"
+        },
+        {
+          "name": "Judgment Thunder",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16–17"
+        },
+        {
+          "name": "Light of Regeneration",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Healing Light",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15–16"
+        },
+        {
+          "name": "Radiant Recovery",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16–20"
+        },
+        {
+          "name": "Chain of Torment",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14"
+        },
+        {
+          "name": "Debilitating Mark",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14"
+        },
+        {
+          "name": "Defiance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.13–14"
+        }
+      ],
+      "Stigma": [
+        {
+          "name": "Noble Aura",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Salvation",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20–25"
+        },
+        {
+          "name": "Earth Punishment",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Light of Protection",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20–25"
+        },
+        {
+          "name": "Prayer of Amplification",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Assault Mark",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Power Burst",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Absolution",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20–23"
+        },
+        {
+          "name": "Benevolence",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Summon Resurrection",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Root",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Yustiel's Power",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20–23"
+        },
+        {
+          "name": "Voice of Doom",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        }
+      ],
+      "Passive": [
+        {
+          "name": "Earth's Grace",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.34–36"
+        },
+        {
+          "name": "Empyrean Lord's Grace",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.32–35"
+        },
+        {
+          "name": "Immortal Veil",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16–20"
+        },
+        {
+          "name": "Warm Benediction",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16–18"
+        },
+        {
+          "name": "Healing Enhancement",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.17–19"
+        },
+        {
+          "name": "Radiant Benediction",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14–16"
+        },
+        {
+          "name": "Survival Willpower",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14–15"
+        },
+        {
+          "name": "Prayer of Concentration",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.11–15"
+        },
+        {
+          "name": "Empyrean Lords' Benediction",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.7–11"
+        },
+        {
+          "name": "Heal Block",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.5–10"
+        }
+      ]
+    },
+    "traits": {
+      "Condemnation": [
+        {
+          "number": 1,
+          "description": "Recover 100 MP per hit",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Up to 12% more damage against fewer targets",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 3,
+          "description": "Root for 3 s on a 20% proc",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 4,
+          "description": "Skill critical hit +300",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 5,
+          "description": "No cooldown",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        }
+      ],
+      "Earth's Retribution": [
+        {
+          "number": 1,
+          "description": "MP recovery +20%",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Discharge proc chance +20%",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 3,
+          "description": "Multi-hit chance +50%",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 4,
+          "description": "Discharge hits shorten Bolt’s cooldown by 7 s",
+          "used": 19,
+          "sample": 20,
+          "usage": 95
+        },
+        {
+          "number": 5,
+          "description": "Bypass block and evasion",
+          "used": 1,
+          "sample": 20,
+          "usage": 5
+        }
+      ],
+      "Bolt": [
+        {
+          "number": 1,
+          "description": "Full charge can stun for 3 s (30%)",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Skill accuracy +300",
+          "used": 1,
+          "sample": 20,
+          "usage": 5
+        },
+        {
+          "number": 3,
+          "description": "Skill speed +30%",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 4,
+          "description": "Up to 20% more damage against fewer targets",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 5,
+          "description": "Guaranteed critical hit",
+          "used": 18,
+          "sample": 20,
+          "usage": 90
+        }
+      ],
+      "Divine Aura": [
+        {
+          "number": 1,
+          "description": "Aura slows up to four enemies within 4 m by 40% for 3 s",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Area-of-effect attack",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 3,
+          "description": "Aura attacks 50% faster",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 4,
+          "description": "Aura lasts 3 s longer",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 5,
+          "description": "Cooldown 10 s shorter",
+          "used": 19,
+          "sample": 20,
+          "usage": 95
+        }
+      ],
+      "Lightning Strike Scattershot": [
+        {
+          "number": 1,
+          "description": "5% HP absorption",
+          "used": 0,
+          "sample": 13,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Recover 120 MP",
+          "used": 0,
+          "sample": 13,
+          "usage": 0
+        },
+        {
+          "number": 3,
+          "description": "Cast while moving",
+          "used": 1,
+          "sample": 13,
+          "usage": 8
+        },
+        {
+          "number": 4,
+          "description": "Guaranteed multi-hit",
+          "used": 13,
+          "sample": 13,
+          "usage": 100
+        },
+        {
+          "number": 5,
+          "description": "Hits shorten all Mastery cooldowns by 0.5 s",
+          "used": 12,
+          "sample": 13,
+          "usage": 92
+        }
+      ],
+      "Judgment Thunder": [
+        {
+          "number": 1,
+          "description": "MP cost reduced by 20%",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Up to 12% more damage against fewer targets",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 3,
+          "description": "Divine Punishment slows combat speed by 10% for 5 s",
+          "used": 1,
+          "sample": 20,
+          "usage": 5
+        },
+        {
+          "number": 4,
+          "description": "Divine Punishment can root for 2 s (10%)",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 5,
+          "description": "One extra Divine Punishment activation",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        }
+      ],
+      "Light of Regeneration": [
+        {
+          "number": 1,
+          "description": "Defense +5% during the heal",
+          "used": 2,
+          "sample": 20,
+          "usage": 10
+        },
+        {
+          "number": 2,
+          "description": "Healing +20% at half HP or below",
+          "used": 2,
+          "sample": 20,
+          "usage": 10
+        },
+        {
+          "number": 3,
+          "description": "Incoming healing +5% during the heal",
+          "used": 4,
+          "sample": 20,
+          "usage": 20
+        },
+        {
+          "number": 4,
+          "description": "Movement speed +5% during the heal",
+          "used": 15,
+          "sample": 20,
+          "usage": 75
+        },
+        {
+          "number": 5,
+          "description": "During healing, damage tolerance +5% PvE and +2.5% PvP",
+          "used": 17,
+          "sample": 20,
+          "usage": 85
+        }
+      ],
+      "Healing Light": [
+        {
+          "number": 1,
+          "description": "Two additional consecutive casts",
+          "used": 13,
+          "sample": 16,
+          "usage": 81
+        },
+        {
+          "number": 2,
+          "description": "Healing +20% at half HP or below",
+          "used": 0,
+          "sample": 16,
+          "usage": 0
+        },
+        {
+          "number": 3,
+          "description": "50% chance to cleanse one debuff",
+          "used": 0,
+          "sample": 16,
+          "usage": 0
+        },
+        {
+          "number": 4,
+          "description": "HP recovery +2%",
+          "used": 12,
+          "sample": 16,
+          "usage": 75
+        },
+        {
+          "number": 5,
+          "description": "Cooldown 2 s shorter",
+          "used": 8,
+          "sample": 16,
+          "usage": 50
+        }
+      ],
+      "Radiant Recovery": [
+        {
+          "number": 1,
+          "description": "Cleanse up to two debuffs",
+          "used": 5,
+          "sample": 20,
+          "usage": 25
+        },
+        {
+          "number": 2,
+          "description": "One additional consecutive cast",
+          "used": 16,
+          "sample": 20,
+          "usage": 80
+        },
+        {
+          "number": 3,
+          "description": "Cooldown 3 s shorter",
+          "used": 9,
+          "sample": 20,
+          "usage": 45
+        },
+        {
+          "number": 4,
+          "description": "Incoming healing +10% for 10 s",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 5,
+          "description": "HP recovery +5%",
+          "used": 18,
+          "sample": 20,
+          "usage": 90
+        }
+      ],
+      "Chain of Torment": [
+        {
+          "number": 1,
+          "description": "Slow the target for 5 s",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Damage over time lasts 3 s longer",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 3,
+          "description": "20% chance of a 3 s knockdown",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 4,
+          "description": "Target loses 10% PvE and 5% PvP damage tolerance",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 5,
+          "description": "Bypass block and evasion. Damage ticks twice as often.",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        }
+      ],
+      "Debilitating Mark": [
+        {
+          "number": 1,
+          "description": "No MP cost and 150 MP recovered",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 2,
+          "description": "Target defense −15% while damage ticks",
+          "used": 20,
+          "sample": 20,
+          "usage": 100
+        },
+        {
+          "number": 3,
+          "description": "20% chance of a 3 s stun",
+          "used": 0,
+          "sample": 20,
+          "usage": 0
+        },
+        {
+          "number": 4,
+          "description": "Target loses 10% PvE and 5% PvP damage boost",
+          "used": 19,
+          "sample": 20,
+          "usage": 95
+        },
+        {
+          "number": 5,
+          "description": "Bypass block and evasion. Damage ticks twice as often.",
+          "used": 1,
+          "sample": 20,
+          "usage": 5
+        }
+      ],
+      "Defiance": [
+        {
+          "number": 1,
+          "description": "Unlock Blessing of Regeneration as a chain",
+          "used": 8,
+          "sample": 13,
+          "usage": 62
+        },
+        {
+          "number": 2,
+          "description": "Recover 1,000 stamina on use",
+          "used": 0,
+          "sample": 13,
+          "usage": 0
+        },
+        {
+          "number": 3,
+          "description": "Recover 10% HP on use",
+          "used": 11,
+          "sample": 13,
+          "usage": 85
+        },
+        {
+          "number": 4,
+          "description": "Tenacity lasts 2 s longer",
+          "used": 3,
+          "sample": 13,
+          "usage": 23
+        },
+        {
+          "number": 5,
+          "description": "During Tenacity, damage tolerance +50% PvE and +25% PvP",
+          "used": 0,
+          "sample": 13,
+          "usage": 0
+        }
+      ]
+    }
+  },
+  "ideals": {
+    "className": "Cleric",
+    "sampleSize": 856,
+    "sampleDate": "2026-10-19",
+    "source": "https://kisk.app/scoring",
+    "method": "https://kisk.app/scoring",
+    "slots": {
+      "MainHand": [
+        {
+          "effect": "Weapon Damage Boost",
+          "usage": 100
+        },
+        {
+          "effect": "Combat Speed",
+          "usage": 100
+        },
+        {
+          "effect": "Might",
+          "usage": 100
+        },
+        {
+          "effect": "Damage Boost",
+          "usage": 100
+        },
+        {
+          "effect": "Precision",
+          "usage": 98
+        },
+        {
+          "effect": "Multi-hit Chance",
+          "usage": 97
+        },
+        {
+          "effect": "Attack",
+          "usage": 85
+        },
+        {
+          "effect": "Status Effect Accuracy",
+          "usage": 6
+        }
+      ],
+      "SubHand": [
+        {
+          "effect": "Weapon Damage Boost",
+          "usage": 100
+        },
+        {
+          "effect": "Combat Speed",
+          "usage": 100
+        },
+        {
+          "effect": "Might",
+          "usage": 100
+        },
+        {
+          "effect": "Damage Boost",
+          "usage": 100
+        },
+        {
+          "effect": "Multi-hit Chance",
+          "usage": 98
+        },
+        {
+          "effect": "Precision",
+          "usage": 98
+        },
+        {
+          "effect": "Attack",
+          "usage": 83
+        },
+        {
+          "effect": "Status Effect Accuracy",
+          "usage": 3
+        }
+      ],
+      "Torso": [
+        {
+          "effect": "Damage Boost",
+          "usage": 100
+        },
+        {
+          "effect": "Attack",
+          "usage": 93
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 90
+        },
+        {
+          "effect": "Empyrean Lord's Grace",
+          "usage": 67,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Earth's Grace",
+          "usage": 66,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 57
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 55
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 48
+        },
+        {
+          "effect": "Endurance",
+          "usage": 21
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 19
+        },
+        {
+          "effect": "Constitution",
+          "usage": 15
+        },
+        {
+          "effect": "Regeneration",
+          "usage": 13
+        }
+      ],
+      "Pants": [
+        {
+          "effect": "Attack increase",
+          "usage": 98
+        },
+        {
+          "effect": "Damage Tolerance",
+          "usage": 98
+        },
+        {
+          "effect": "Attack",
+          "usage": 90
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 89
+        },
+        {
+          "effect": "Empyrean Lord's Grace",
+          "usage": 66,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Earth's Grace",
+          "usage": 64,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 26
+        },
+        {
+          "effect": "Endurance",
+          "usage": 18
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 14
+        },
+        {
+          "effect": "Constitution",
+          "usage": 6
+        }
+      ],
+      "Helmet": [
+        {
+          "effect": "Double Chance",
+          "usage": 99
+        },
+        {
+          "effect": "Attack increase",
+          "usage": 99
+        },
+        {
+          "effect": "Attack",
+          "usage": 93
+        },
+        {
+          "effect": "Incoming Heal",
+          "usage": 76
+        },
+        {
+          "effect": "Empyrean Lord's Grace",
+          "usage": 67,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Earth's Grace",
+          "usage": 66,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 32
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 20
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 19
+        },
+        {
+          "effect": "Endurance",
+          "usage": 17
+        },
+        {
+          "effect": "Constitution",
+          "usage": 7
+        }
+      ],
+      "Shoulder": [
+        {
+          "effect": "Critical Damage Boost",
+          "usage": 100
+        },
+        {
+          "effect": "Double Chance",
+          "usage": 99
+        },
+        {
+          "effect": "Attack",
+          "usage": 95
+        },
+        {
+          "effect": "Empyrean Lord's Grace",
+          "usage": 69,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Earth's Grace",
+          "usage": 67,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 62
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 49
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 49
+        },
+        {
+          "effect": "Endurance",
+          "usage": 18
+        },
+        {
+          "effect": "Constitution",
+          "usage": 10
+        },
+        {
+          "effect": "Regeneration",
+          "usage": 10
+        }
+      ],
+      "Gloves": [
+        {
+          "effect": "Combat Speed",
+          "usage": 100
+        },
+        {
+          "effect": "Attack",
+          "usage": 95
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 89
+        },
+        {
+          "effect": "Earth's Grace",
+          "usage": 68,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Empyrean Lord's Grace",
+          "usage": 68,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 44
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 43
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 32
+        },
+        {
+          "effect": "Regeneration",
+          "usage": 9
+        },
+        {
+          "effect": "Constitution",
+          "usage": 6
+        }
+      ],
+      "Boots": [
+        {
+          "effect": "Move Speed",
+          "usage": 100
+        },
+        {
+          "effect": "Attack",
+          "usage": 93
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 91
+        },
+        {
+          "effect": "Empyrean Lord's Grace",
+          "usage": 67,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Earth's Grace",
+          "usage": 66,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 46
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 40
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 29
+        },
+        {
+          "effect": "Regeneration",
+          "usage": 8
+        },
+        {
+          "effect": "Constitution",
+          "usage": 7
+        }
+      ],
+      "Cape": [
+        {
+          "effect": "Double Chance",
+          "usage": 99
+        },
+        {
+          "effect": "Attack increase",
+          "usage": 98
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 90
+        },
+        {
+          "effect": "Attack",
+          "usage": 84
+        },
+        {
+          "effect": "Empyrean Lord's Grace",
+          "usage": 63,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Earth's Grace",
+          "usage": 62,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Critical Damage Tolerance",
+          "usage": 39
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 19
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 18
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 12
+        }
+      ],
+      "Necklace": [
+        {
+          "effect": "Combat Speed",
+          "usage": 100
+        },
+        {
+          "effect": "Might",
+          "usage": 100
+        },
+        {
+          "effect": "Attack",
+          "usage": 99
+        },
+        {
+          "effect": "Precision",
+          "usage": 98
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 93
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 91
+        },
+        {
+          "effect": "HP",
+          "usage": 4
+        },
+        {
+          "effect": "Defense",
+          "usage": 4
+        },
+        {
+          "effect": "Block",
+          "usage": 2
+        }
+      ],
+      "Earring": [
+        {
+          "effect": "Move Speed",
+          "usage": 100
+        },
+        {
+          "effect": "Might",
+          "usage": 100
+        },
+        {
+          "effect": "Attack",
+          "usage": 100
+        },
+        {
+          "effect": "Precision",
+          "usage": 98
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 96
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 95
+        },
+        {
+          "effect": "Defense",
+          "usage": 6
+        },
+        {
+          "effect": "HP",
+          "usage": 6
+        },
+        {
+          "effect": "Block",
+          "usage": 2
+        }
+      ],
+      "Ring": [
+        {
+          "effect": "Might",
+          "usage": 100
+        },
+        {
+          "effect": "Precision",
+          "usage": 98
+        },
+        {
+          "effect": "Attack",
+          "usage": 81
+        },
+        {
+          "effect": "Condemnation",
+          "usage": 68,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Earth's Retribution",
+          "usage": 66,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Radiant Recovery",
+          "usage": 65,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 17
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 8
+        }
+      ],
+      "Bracelet": [
+        {
+          "effect": "Illusion [Kaisinel]",
+          "usage": 100
+        },
+        {
+          "effect": "Time [Siel]",
+          "usage": 100
+        },
+        {
+          "effect": "Destruction [Zikel]",
+          "usage": 100
+        },
+        {
+          "effect": "Wisdom [Lumiel]",
+          "usage": 99
+        },
+        {
+          "effect": "Justice [Nezekan]",
+          "usage": 77
+        },
+        {
+          "effect": "Death [Triniel]",
+          "usage": 68
+        },
+        {
+          "effect": "Space [Israphel]",
+          "usage": 39
+        },
+        {
+          "effect": "Freedom [Vaizel]",
+          "usage": 29
+        }
+      ],
+      "Arcana1": [
+        {
+          "effect": "Empyrean Lord's Grace",
+          "usage": 71,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Earth's Grace",
+          "usage": 71,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Condemnation",
+          "usage": 68,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Earth's Retribution",
+          "usage": 66,
+          "source": "gearCard"
+        }
+      ],
+      "Arcana2": [
+        {
+          "effect": "Condemnation",
+          "usage": 68,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Earth's Retribution",
+          "usage": 66,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Radiant Recovery",
+          "usage": 65,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Bolt",
+          "usage": 65,
+          "source": "gearCard"
+        }
+      ],
+      "Arcana3": [
+        {
+          "effect": "Divine Aura",
+          "usage": 64,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Healing Light",
+          "usage": 52,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Light of Regeneration",
+          "usage": 48,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Judgment Thunder",
+          "usage": 45,
+          "source": "gearCard"
+        }
+      ],
+      "Arcana4": [
+        {
+          "effect": "Empyrean Lord's Grace",
+          "usage": 71,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Immortal Veil",
+          "usage": 53,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Warm Benediction",
+          "usage": 41,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Survival Willpower",
+          "usage": 4,
+          "source": "gearCard"
+        }
+      ],
+      "Arcana5": [
+        {
+          "effect": "Earth's Grace",
+          "usage": 71,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Healing Enhancement",
+          "usage": 56,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Radiant Benediction",
+          "usage": 8,
+          "source": "gearCard"
+        },
+        {
+          "effect": "Empyrean Lords' Benediction",
+          "usage": 0,
+          "source": "gearCard"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2270 @@
+{
+  "buildGuide": {
+    "className": "Brawler",
+    "service": "Korea / Taiwan",
+    "source": "https://notmeter.com/?view=setup-guide",
+    "updated": "2026-11-21T16:44:54.5839834+00:00",
+    "sampleSize": 20,
+    "soul": {
+      "Weapons": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Precision",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          }
+        ]
+      },
+      "Guard": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Weapon Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Multi-hit Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Precision",
+            "used": 18,
+            "usage": 90
+          }
+        ]
+      },
+      "Helm": {
+        "Options": [
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Dexterity",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Incoming Heal",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Endurance",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Dominance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rampage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Massive Rage",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Shatter Frontline",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Pauldrons": {
+        "Options": [
+          {
+            "name": "Critical Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Attack",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Endurance",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Block",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Dexterity",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Dominance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rampage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Massive Rage",
+            "used": 11,
+            "usage": 55
+          }
+        ]
+      },
+      "Top": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Constitution",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Endurance",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Accuracy",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Dexterity",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Dominance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rampage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Massive Rage",
+            "used": 10,
+            "usage": 50
+          }
+        ]
+      },
+      "Legs": {
+        "Options": [
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Damage Tolerance",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Attack",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Dexterity",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Endurance",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Defense increase",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Dominance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rampage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 14,
+            "usage": 70
+          }
+        ]
+      },
+      "Gloves": {
+        "Options": [
+          {
+            "name": "Combat Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Defense increase",
+            "used": 2,
+            "usage": 10
+          },
+          {
+            "name": "Dexterity",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Critical Hit",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Dominance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rampage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Massive Rage",
+            "used": 11,
+            "usage": 55
+          }
+        ]
+      },
+      "Shoes": {
+        "Options": [
+          {
+            "name": "Move Speed",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Defense increase",
+            "used": 4,
+            "usage": 20
+          },
+          {
+            "name": "Critical Hit",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Dexterity",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Endurance",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Dominance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rampage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Massive Rage",
+            "used": 5,
+            "usage": 25
+          }
+        ]
+      },
+      "Necklace": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Critical Hit",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Accuracy",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Block",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Dominance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rampage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Massive Rage",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Hold the Line",
+            "used": 1,
+            "usage": 5
+          },
+          {
+            "name": "Shatter Frontline",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      },
+      "Earrings": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Perfect Chance",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Critical Hit",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Accuracy",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Block",
+            "used": 4,
+            "usage": 20
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Massive Rage",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Dominance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rampage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Shatter Frontline",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Ring": {
+        "Options": [
+          {
+            "name": "Attack",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Block",
+            "used": 1,
+            "usage": 5
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Roundhouse",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Ascending Blow",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Flurry",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rampage",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Chain Fist",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Exploding Fist",
+            "used": 19,
+            "usage": 95
+          },
+          {
+            "name": "Sweeping Kick",
+            "used": 7,
+            "usage": 35
+          }
+        ]
+      },
+      "Bracelet": {
+        "Options": [
+          {
+            "name": "Time [Siel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Justice [Nezekan]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Wisdom [Lumiel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Destruction [Zikel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Illusion [Kaisinel]",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Space [Israphel]",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Freedom [Vaizel]",
+            "used": 7,
+            "usage": 35
+          }
+        ]
+      },
+      "Brooch": {
+        "Options": [
+          {
+            "name": "Might",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Precision",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Accuracy",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Critical Hit",
+            "used": 14,
+            "usage": 70
+          },
+          {
+            "name": "Constitution",
+            "used": 12,
+            "usage": 60
+          },
+          {
+            "name": "Block",
+            "used": 6,
+            "usage": 30
+          },
+          {
+            "name": "Dexterity",
+            "used": 4,
+            "usage": 20
+          }
+        ]
+      },
+      "Cloak": {
+        "Options": [
+          {
+            "name": "Perfect Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Double Chance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack increase",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack",
+            "used": 16,
+            "usage": 80
+          }
+        ],
+        "Skills": [
+          {
+            "name": "Dominance",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Rampage Boost",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Impact Hit",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Massive Rage",
+            "used": 2,
+            "usage": 10
+          }
+        ]
+      },
+      "Seal": {
+        "Options": [
+          {
+            "name": "PvE Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Boss Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Max Attack",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Attack Bonus",
+            "used": 20,
+            "usage": 100
+          },
+          {
+            "name": "Critical Attack",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Power Shard Damage Bonus",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Boss Defense",
+            "used": 1,
+            "usage": 5
+          }
+        ]
+      }
+    },
+    "stones": {
+      "Manastones · Damage Boost": [
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 20,
+          "usage": 100,
+          "detail": "131 total"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "used": 17,
+          "usage": 85,
+          "detail": "36 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 10,
+          "usage": 50,
+          "detail": "20 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 6,
+          "usage": 30,
+          "detail": "9 total"
+        }
+      ],
+      "Soulstones · Damage Boost": [
+        {
+          "name": "Weapon Damage Boost",
+          "used": 20,
+          "usage": 100,
+          "detail": "53 total"
+        },
+        {
+          "name": "Front Attack Damage Boost",
+          "used": 19,
+          "usage": 95,
+          "detail": "126 total"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "used": 14,
+          "usage": 70,
+          "detail": "37 total"
+        },
+        {
+          "name": "Damage Boost",
+          "used": 14,
+          "usage": 70,
+          "detail": "24 total"
+        },
+        {
+          "name": "Back Attack Damage Boost",
+          "used": 5,
+          "usage": 25,
+          "detail": "5 total"
+        }
+      ]
+    },
+    "arcana": {
+      "Chalice": {
+        "Most-used cards": [
+          {
+            "name": "Chalice of Protection",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Dominance",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Rampage Boost",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Exploding Fist",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Rampage",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Chain Fist",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Impact Hit",
+            "used": 6,
+            "usage": 30,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Parchment": {
+        "Most-used cards": [
+          {
+            "name": "Parchment of Protection",
+            "used": 13,
+            "usage": 65
+          },
+          {
+            "name": "Parchment of Punishment",
+            "used": 7,
+            "usage": 35
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Rampage",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Chain Fist",
+            "used": 17,
+            "usage": 85,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Exploding Fist",
+            "used": 17,
+            "usage": 85,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Sweeping Kick",
+            "used": 13,
+            "usage": 65,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Ascending Blow",
+            "used": 11,
+            "usage": 55,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Flurry",
+            "used": 2,
+            "usage": 10,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Compass": {
+        "Most-used cards": [
+          {
+            "name": "Compass of Punishment",
+            "used": 16,
+            "usage": 80
+          },
+          {
+            "name": "Compass of Protection",
+            "used": 4,
+            "usage": 20
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Roundhouse",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Ground Smash",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Typhoon Flurry",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Defiance",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Whirlwind",
+            "used": 8,
+            "usage": 40,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Shoulder Tackle",
+            "used": 4,
+            "usage": 20,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Bell": {
+        "Most-used cards": [
+          {
+            "name": "Bell of Punishment",
+            "used": 20,
+            "usage": 100
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Rampage Boost",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Shatter Frontline",
+            "used": 18,
+            "usage": 90,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Mental Conversion",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Revitalization Contract",
+            "used": 15,
+            "usage": 75,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Impact Blow",
+            "used": 12,
+            "usage": 60,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Mirror": {
+        "Most-used cards": [
+          {
+            "name": "Mirror of Protection",
+            "used": 17,
+            "usage": 85
+          },
+          {
+            "name": "Mirror of Punishment",
+            "used": 3,
+            "usage": 15
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Dominance",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Impact Hit",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.3"
+          },
+          {
+            "name": "Massive Rage",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Lightweight",
+            "used": 11,
+            "usage": 55,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Hold the Line",
+            "used": 9,
+            "usage": 45,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Scales": {
+        "Most-used cards": [
+          {
+            "name": "Scales of Punishment",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Scales of Indomitability",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Most-used attached skills": [
+          {
+            "name": "Dominance",
+            "used": 20,
+            "usage": 100,
+            "detail": "Lv.4"
+          },
+          {
+            "name": "Rampage Boost",
+            "used": 19,
+            "usage": 95,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Chain Fist",
+            "used": 10,
+            "usage": 50,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Impact Hit",
+            "used": 9,
+            "usage": 45,
+            "detail": "Lv.1"
+          },
+          {
+            "name": "Rampage",
+            "used": 7,
+            "usage": 35,
+            "detail": "Lv.2"
+          },
+          {
+            "name": "Exploding Fist",
+            "used": 7,
+            "usage": 35,
+            "detail": "Lv.1"
+          }
+        ]
+      },
+      "Key": {
+        "Most-used cards": [
+          {
+            "name": "Key of Protection",
+            "used": 18,
+            "usage": 90
+          },
+          {
+            "name": "Key of Punishment",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Most-used attached skills": []
+      },
+      "Hourglass": {
+        "Most-used cards": [
+          {
+            "name": "Hourglass of Protection",
+            "used": 10,
+            "usage": 50
+          },
+          {
+            "name": "Hourglass of Indomitability",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Hourglass of Punishment",
+            "used": 5,
+            "usage": 25
+          }
+        ],
+        "Most-used attached skills": []
+      },
+      "Dice": {
+        "Most-used cards": [
+          {
+            "name": "Dice of Indomitability",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Dice of Protection",
+            "used": 5,
+            "usage": 25
+          },
+          {
+            "name": "Dice of Punishment",
+            "used": 4,
+            "usage": 20
+          }
+        ],
+        "Most-used attached skills": []
+      },
+      "Lantern": {
+        "Most-used cards": [
+          {
+            "name": "Lantern of Indomitability",
+            "used": 11,
+            "usage": 55
+          },
+          {
+            "name": "Lantern of Punishment",
+            "used": 7,
+            "usage": 35
+          },
+          {
+            "name": "Lantern of Protection",
+            "used": 2,
+            "usage": 10
+          }
+        ],
+        "Most-used attached skills": []
+      }
+    },
+    "arcanaSets": [
+      {
+        "name": "Protected Soul",
+        "used": 20,
+        "usage": 100,
+        "detail": "4 total"
+      },
+      {
+        "name": "Punishing Overture",
+        "used": 20,
+        "usage": 100,
+        "detail": "4 total"
+      },
+      {
+        "name": "Indomitable Dedication",
+        "used": 16,
+        "usage": 80,
+        "detail": "2 total"
+      }
+    ],
+    "skills": {
+      "Active skills": [
+        {
+          "name": "Roundhouse",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Chain Fist",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Exploding Fist",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Rampage",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Ascending Blow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.17"
+        },
+        {
+          "name": "Flurry",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Ground Smash",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Typhoon Flurry",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Sweeping Kick",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Whirlwind",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        },
+        {
+          "name": "Shoulder Tackle",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        },
+        {
+          "name": "Defiance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.12"
+        }
+      ],
+      "Stigma": [
+        {
+          "name": "Ferocity",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Phantom",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Focused Block",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Pulverize",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.25"
+        },
+        {
+          "name": "Full Force",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.23"
+        },
+        {
+          "name": "Assault Blow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Surging Cleave",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Discharge Energy",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Unstoppable",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Sever Bloodstream",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Flash Step",
+          "used": 19,
+          "usage": 95,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Quake",
+          "used": 19,
+          "usage": 95,
+          "detail": "Lv.20"
+        },
+        {
+          "name": "Time Bomb",
+          "used": 18,
+          "usage": 90,
+          "detail": "Lv.20"
+        }
+      ],
+      "Passive": [
+        {
+          "name": "Dominance",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.36"
+        },
+        {
+          "name": "Rampage Boost",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.32"
+        },
+        {
+          "name": "Impact Hit",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.27"
+        },
+        {
+          "name": "Massive Rage",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.21"
+        },
+        {
+          "name": "Shatter Frontline",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.16"
+        },
+        {
+          "name": "Lightweight",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Mental Conversion",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.15"
+        },
+        {
+          "name": "Hold the Line",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.14"
+        },
+        {
+          "name": "Revitalization Contract",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.13"
+        },
+        {
+          "name": "Impact Blow",
+          "used": 20,
+          "usage": 100,
+          "detail": "Lv.11"
+        }
+      ]
+    },
+    "traits": {
+      "Roundhouse": [
+        {
+          "number": 1,
+          "description": "+200 Block while using skill",
+          "used": 1,
+          "sample": 2,
+          "usage": 50.0
+        },
+        {
+          "number": 2,
+          "description": "Up to +12% damage when less targets hit",
+          "used": 1,
+          "sample": 2,
+          "usage": 50.0
+        },
+        {
+          "number": 3,
+          "description": "+10% skill Critical Hit",
+          "used": 0,
+          "sample": 2,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "+20% Skill Speed",
+          "used": 2,
+          "sample": 2,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "-1s [Chain Fist] cooldown on hit while in [Rampage]",
+          "used": 2,
+          "sample": 2,
+          "usage": 100.0
+        }
+      ],
+      "Chain Fist": [
+        {
+          "number": 1,
+          "description": "Absorbs 1.5% HP",
+          "used": 1,
+          "sample": 2,
+          "usage": 50.0
+        },
+        {
+          "number": 2,
+          "description": "Restores 10 Rage on hit while [Normal]",
+          "used": 0,
+          "sample": 2,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "+20% damage on landing Front Attack",
+          "used": 2,
+          "sample": 2,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "+20% Skill Speed",
+          "used": 0,
+          "sample": 2,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "Critical Hit on hit while in [Rampage]",
+          "used": 2,
+          "sample": 2,
+          "usage": 100.0
+        }
+      ],
+      "Exploding Fist": [
+        {
+          "number": 1,
+          "description": "+20% Rage restored",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+10% Front Attack Damage Boost for 10s on landing [Exploding Fist]",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "Absorbs 3% HP",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "Ignores Block and Evasion",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "+50% damage to targets with Incapacitated Immunity",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        }
+      ],
+      "Rampage": [
+        {
+          "number": 1,
+          "description": "+5% PvE Damage Boost and +2.5% PvP Damage Boost increase",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 2,
+          "description": "+20% Status Effect Resist",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "+5% Double Chance",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "-50% Rage consumed while Incapacitated",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "Grants Martial Spirit for 3s on skill use",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        }
+      ],
+      "Ascending Blow": [
+        {
+          "number": 1,
+          "description": "Changes to rush skill and +16m range",
+          "used": 0,
+          "sample": 1,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+20% skill Critical Hit",
+          "used": 1,
+          "sample": 1,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "+30% Skill Accuracy",
+          "used": 0,
+          "sample": 1,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "Up to +20% damage when less targets hit",
+          "used": 1,
+          "sample": 1,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "+50% damage to targets with Incapacitated Immunity",
+          "used": 1,
+          "sample": 1,
+          "usage": 100.0
+        }
+      ],
+      "Flurry": [
+        {
+          "number": 1,
+          "description": "+20% Rage restored",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Absorbs 0.7% HP",
+          "used": 1,
+          "sample": 20,
+          "usage": 5.0
+        },
+        {
+          "number": 3,
+          "description": "+50% Multi-Hit Chance on hit",
+          "used": 1,
+          "sample": 20,
+          "usage": 5.0
+        },
+        {
+          "number": 4,
+          "description": "+30% skill Critical Hit",
+          "used": 0,
+          "sample": 20,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "+3% Critical Damage Boost for 10s on hit [Up to 5 stacks]",
+          "used": 20,
+          "sample": 20,
+          "usage": 100.0
+        }
+      ],
+      "Typhoon Flurry": [
+        {
+          "number": 1,
+          "description": "Absorbs 5% HP",
+          "used": 0,
+          "sample": 1,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "Restores 16 Rage on hit",
+          "used": 0,
+          "sample": 1,
+          "usage": 0.0
+        },
+        {
+          "number": 3,
+          "description": "Changes to mobile skill",
+          "used": 1,
+          "sample": 1,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "Multi-Hit on hit",
+          "used": 0,
+          "sample": 1,
+          "usage": 0.0
+        },
+        {
+          "number": 5,
+          "description": "-0.5s all Mastery skill cooldowns on hit",
+          "used": 1,
+          "sample": 1,
+          "usage": 100.0
+        }
+      ],
+      "Shoulder Tackle": [
+        {
+          "number": 1,
+          "description": "Restores 300 Stamina on hit",
+          "used": 0,
+          "sample": 1,
+          "usage": 0.0
+        },
+        {
+          "number": 2,
+          "description": "+10m range",
+          "used": 1,
+          "sample": 1,
+          "usage": 100.0
+        },
+        {
+          "number": 3,
+          "description": "Breaks target's Protective Shield",
+          "used": 0,
+          "sample": 1,
+          "usage": 0.0
+        },
+        {
+          "number": 4,
+          "description": "-10s cooldown",
+          "used": 1,
+          "sample": 1,
+          "usage": 100.0
+        },
+        {
+          "number": 5,
+          "description": "+25% Stun Chance",
+          "used": 0,
+          "sample": 1,
+          "usage": 0.0
+        }
+      ],
+      "Defiance": [
+        {
+          "number": 1,
+          "description": "Adds [Relentless Kick] Chain Skill",
+          "used": 1,
+          "sample": 17,
+          "usage": 5.9
+        },
+        {
+          "number": 2,
+          "description": "Restores 1000 Stamina on using [Defiance]",
+          "used": 2,
+          "sample": 17,
+          "usage": 11.8
+        },
+        {
+          "number": 3,
+          "description": "Restores 20% HP on using [Defiance]",
+          "used": 17,
+          "sample": 17,
+          "usage": 100.0
+        },
+        {
+          "number": 4,
+          "description": "+2s Tenacity duration",
+          "used": 12,
+          "sample": 17,
+          "usage": 70.6
+        },
+        {
+          "number": 5,
+          "description": "+50% PvE Damage Tolerance and +25% PvP Damage Tolerance for Tenacity duration",
+          "used": 1,
+          "sample": 17,
+          "usage": 5.9
+        }
+      ]
+    }
+  },
+  "ideals": {
+    "className": "Brawler",
+    "source": "https://kisk.app/scoring",
+    "method": "https://kisk.app/scoring",
+    "sampleSize": 578,
+    "sampleDate": "2026-10-19",
+    "slots": {
+      "MainHand": [
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Damage Boost",
+          "usage": 98.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 92.0
+        },
+        {
+          "effect": "Weapon Damage Boost",
+          "usage": 75.0
+        },
+        {
+          "effect": "Multi-hit Chance",
+          "usage": 64.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 48.0
+        },
+        {
+          "effect": "Status Effect Accuracy",
+          "usage": 10.0
+        }
+      ],
+      "SubHand": [
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Damage Boost",
+          "usage": 99.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 93.0
+        },
+        {
+          "effect": "Weapon Damage Boost",
+          "usage": 74.0
+        },
+        {
+          "effect": "Multi-hit Chance",
+          "usage": 65.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 48.0
+        },
+        {
+          "effect": "Front Attack",
+          "usage": 6.0
+        }
+      ],
+      "Torso": [
+        {
+          "effect": "Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 95.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 92.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 49.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 40.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 12.0
+        },
+        {
+          "effect": "Dexterity",
+          "usage": 8.0
+        },
+        {
+          "effect": "Block",
+          "usage": 6.0
+        },
+        {
+          "effect": "Endurance",
+          "usage": 6.0
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 5.0
+        }
+      ],
+      "Pants": [
+        {
+          "effect": "Attack increase",
+          "usage": 99.0
+        },
+        {
+          "effect": "Damage Tolerance",
+          "usage": 98.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 94.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 80.0
+        },
+        {
+          "effect": "Endurance",
+          "usage": 4.0
+        },
+        {
+          "effect": "Status Effect Resist",
+          "usage": 3.0
+        },
+        {
+          "effect": "Dexterity",
+          "usage": 3.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 2.0
+        }
+      ],
+      "Helmet": [
+        {
+          "effect": "Attack increase",
+          "usage": 99.0
+        },
+        {
+          "effect": "Double Chance",
+          "usage": 99.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 88.0
+        },
+        {
+          "effect": "Endurance",
+          "usage": 35.0
+        },
+        {
+          "effect": "Incoming Heal",
+          "usage": 19.0
+        },
+        {
+          "effect": "Dexterity",
+          "usage": 6.0
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 5.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 3.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 3.0
+        }
+      ],
+      "Shoulder": [
+        {
+          "effect": "Critical Damage Boost",
+          "usage": 100.0
+        },
+        {
+          "effect": "Double Chance",
+          "usage": 99.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 91.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 44.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 40.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 12.0
+        },
+        {
+          "effect": "Dexterity",
+          "usage": 8.0
+        },
+        {
+          "effect": "Endurance",
+          "usage": 7.0
+        },
+        {
+          "effect": "Block",
+          "usage": 7.0
+        }
+      ],
+      "Gloves": [
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 96.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 86.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 35.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 8.0
+        },
+        {
+          "effect": "Dexterity",
+          "usage": 6.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 4.0
+        },
+        {
+          "effect": "Block",
+          "usage": 2.0
+        }
+      ],
+      "Boots": [
+        {
+          "effect": "Move Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 94.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 82.0
+        },
+        {
+          "effect": "Defense increase",
+          "usage": 48.0
+        },
+        {
+          "effect": "Dexterity",
+          "usage": 4.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 4.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 3.0
+        },
+        {
+          "effect": "Block",
+          "usage": 3.0
+        }
+      ],
+      "Cape": [
+        {
+          "effect": "Double Chance",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack increase",
+          "usage": 99.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 71.0
+        },
+        {
+          "effect": "Perfect Chance",
+          "usage": 54.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 32.0
+        },
+        {
+          "effect": "Critical Damage Tolerance",
+          "usage": 7.0
+        },
+        {
+          "effect": "Weapon Damage Tolerance",
+          "usage": 5.0
+        },
+        {
+          "effect": "Dexterity",
+          "usage": 3.0
+        }
+      ],
+      "Necklace": [
+        {
+          "effect": "Combat Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 97.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 92.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 71.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 64.0
+        },
+        {
+          "effect": "Block",
+          "usage": 11.0
+        },
+        {
+          "effect": "MP",
+          "usage": 2.0
+        },
+        {
+          "effect": "Critical Hit Resist",
+          "usage": 2.0
+        },
+        {
+          "effect": "HP",
+          "usage": 2.0
+        },
+        {
+          "effect": "Natural MP Regen",
+          "usage": 1.0
+        }
+      ],
+      "Earring": [
+        {
+          "effect": "Move Speed",
+          "usage": 100.0
+        },
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 98.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 92.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 74.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 66.0
+        },
+        {
+          "effect": "Block",
+          "usage": 13.0
+        },
+        {
+          "effect": "Natural HP Regen",
+          "usage": 4.0
+        },
+        {
+          "effect": "Defense",
+          "usage": 3.0
+        },
+        {
+          "effect": "HP",
+          "usage": 3.0
+        },
+        {
+          "effect": "MP",
+          "usage": 3.0
+        }
+      ],
+      "Ring": [
+        {
+          "effect": "Might",
+          "usage": 100.0
+        },
+        {
+          "effect": "Precision",
+          "usage": 92.0
+        },
+        {
+          "effect": "Attack",
+          "usage": 67.0
+        },
+        {
+          "effect": "Accuracy",
+          "usage": 21.0
+        },
+        {
+          "effect": "Critical Hit",
+          "usage": 19.0
+        },
+        {
+          "effect": "Block",
+          "usage": 5.0
+        },
+        {
+          "effect": "HP",
+          "usage": 3.0
+        },
+        {
+          "effect": "Critical Hit Resist",
+          "usage": 3.0
+        },
+        {
+          "effect": "Natural HP Regen",
+          "usage": 3.0
+        },
+        {
+          "effect": "MP",
+          "usage": 2.0
+        }
+      ],
+      "Bracelet": [
+        {
+          "effect": "Destruction [Zikel]",
+          "usage": 100.0
+        },
+        {
+          "effect": "Time [Siel]",
+          "usage": 100.0
+        },
+        {
+          "effect": "Wisdom [Lumiel]",
+          "usage": 99.0
+        },
+        {
+          "effect": "Illusion [Kaisinel]",
+          "usage": 74.0
+        },
+        {
+          "effect": "Freedom [Vaizel]",
+          "usage": 67.0
+        },
+        {
+          "effect": "Justice [Nezekan]",
+          "usage": 46.0
+        },
+        {
+          "effect": "Death [Triniel]",
+          "usage": 29.0
+        },
+        {
+          "effect": "Space [Israphel]",
+          "usage": 15.0
+        }
+      ]
+    }
+  }
+}
