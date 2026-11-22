@@ -1,19 +1,53 @@
 # AION 2 Character Folio
 
-Character Folio is a Windows companion for AION 2 Global. Pick a character from the public armory, inspect the effects on an equipped piece, and see the chance that a Soul Binding reroll will land a useful replacement. The upgrade path ranks opportunities across the entire loadout.
+Character Folio helps AION 2 Global players decide **which piece of gear to reroll, which line to replace, and what to keep if it lands**. It reads your equipped gear from the public armory and uses the stat and skill pools for each item to calculate your odds. You can follow the PvE rankings for your class or set your own priorities.
 
-## Using the folio
+**[Download the Windows app](../../releases/latest/download/Aion2CharacterFolio.exe)** · [Release notes and source downloads](../../releases/latest)
 
-1. Open `Aion2CharacterFolio.exe` on 64-bit Windows with the Microsoft Edge WebView2 Runtime installed. The application opens in its own window. Players can also build the executable using the instructions below.
-2. Enter a character name, choose a Global region, and select the entry on the correct server. The first successful lookup adds that character to the local quick switcher.
-3. Select an equipped item and open **Inspect reroll**. Choose an outgoing line, a primary target and any acceptable alternatives. The inspector shows the one-roll probability of the primary target and the combined probability of all selected targets.
-4. Open **Upgrade path** to compare equipment or **Build guide** to browse the nine available classes. Use **Refresh gear** after changing equipment. Optional ten-minute refresh starts disabled.
+Open the executable on 64-bit Windows with Microsoft Edge WebView2 Runtime installed. Enter your character name, choose your Global region, then select the result on your server. The app starts with an empty roster and keeps the characters you add on your PC.
 
-### How the recommendations work
+## Read your equipment at a glance
 
-The calculator uses the equipped item's stat and skill pools. Effects already present on the item are excluded from the current draw, including the outgoing effect. Picking a different outgoing line can change the odds on a later roll. Fixed items have an inspection view.
+The **Character board** shows your weapons, armor, accessories, runes and Arcana around your character’s level, class and combat power. Select a piece to see its enchantment, breakthrough progress, and equipped Soul Binding effects. The item details also show main stats and socket contents when the armory reports them. **Ideal Lines** counts how many of the effects preferred by your selected ranking are already on the item.
 
-**Consensus** gives equal weight to the published usage percentages from NotMeter Global, NotMeter Korea/Taiwan and Kisk Korea. An unlisted effect contributes zero. Source percentages describe player preferences. The item tables supply roll probabilities. Pick an individual source or save a custom ranking for a particular slot. Model estimates reflect the bundled reference snapshot and can change after game updates.
+![Character board for an example Cleric, with Dawnwatch Gauntlets selected and their equipped effects visible in the right panel.](docs/screenshots/character-board.png)
+
+*All four screenshots use the released interface with an invented Cleric named Lumen Vale and an illustrative loadout.*
+
+## Decide what counts as a successful reroll
+
+Open **Inspect reroll** on a piece of equipment. Select the line you would replace, choose the effect you want most, and add any alternatives you would keep. The two percentages answer different questions about the same roll.
+
+| On the example gauntlets | What the number means |
+| --- | --- |
+| **Target chance · 4.82%** | The chance of rolling **Critical Hit** on the next attempt. |
+| **Any acceptable · 16.72%** | The chance of rolling **any one** of Critical Hit, Attack, Combat Speed, Earth’s Grace, Empyrean Lord’s Grace or Perfect Chance. |
+
+![Reroll inspector with Accuracy selected for replacement, Critical Hit as the primary target, five alternatives and both calculated odds.](docs/screenshots/reroll-inspector.png)
+
+The example model recommends replacing **Accuracy**. To see how it reached that decision, expand **Ideal roll rankings** to review the preferred effects or **Effects and odds for this item** to compare each effect’s base chance with its chance on your current piece. The calculation excludes every effect already on the item for the current draw, including the outgoing line. After you roll in-game, refresh your gear to calculate from the new set of effects.
+
+## Pick the next piece to work on
+
+**Upgrade path** compares eligible pieces by the chance that one reroll will add a missing ideal line. Each row shows the proposed outgoing effect, the replacements worth keeping, and their combined chance. Select an item name to open its inspector with that plan loaded.
+
+In the example loadout, the shield comes first at **24.69%**, followed by the mace at **22.56%** and the gauntlets at **16.72%**. Use those odds when your goal is to gain a preferred line in one attempt. Estimating a damage or combat-power increase would require a separate calculation.
+
+![Upgrade path with the shield, mace and gauntlets ranked first through third and the suggested replacement effects for each item.](docs/screenshots/upgrade-path.png)
+
+## Choose what “ideal” means for your build
+
+The **Class guide** covers Assassin, Brawler, Chanter, Cleric, Gladiator, Ranger, Sorcerer, Spiritmaster and Templar. Browse **Soul Bind**, **Manastones**, **Arcana**, or **Skills & traits**, then filter by class, sample, and slot or skill. Coverage varies by class and source. Brawler has Korea/Taiwan and Kisk data in this version.
+
+For Soul Binding, **Consensus** averages the usage percentages from NotMeter Global, NotMeter Korea/Taiwan and Kisk Korea, with equal weight and zero for an unlisted effect. For example, the Cleric glove guide gives **Perfect Chance** an **83% Consensus score** from source values of 60%, 100% and 89%. That score describes how often players chose the effect. The reroll inspector uses the item’s outcome weights to calculate how often you can roll it.
+
+![Cleric glove guide comparing Global, Korea/Taiwan, Kisk and Consensus usage for individual stat and skill lines.](docs/screenshots/class-guide.png)
+
+To follow a particular source, change **Suggested Reroll Model** in the inspector. To tailor it to your build, open **Ideal roll rankings → Create Custom Ranking**, name the ranking, and pin your effects in priority order. Consensus fills the remaining places. You can copy a ranking between matching ring, earring or bracelet slots, then edit each copy independently. The upgrade path can use one model across your loadout or each slot’s saved ranking.
+
+## Switching characters and refreshing gear
+
+**Quick switch** reopens a saved character with their last successful gear pull. **Gear pulled** shows the age of that snapshot. Use **Refresh gear** after an in-game change, or enable **Auto-refresh every 10 min** for the active character. If a refresh fails, you can keep planning from the last successful pull.
 
 ## Privacy and network use
 
